@@ -17,4 +17,6 @@ HollyEarth is one product with several worlds. The **City** is the place, **Poli
 | **World — Holly Eye** | Planetary view provided by a **third-party** open-source application, with a door back to the city | `BETA` (third-party integration) | [docs/holly-eye.md](docs/holly-eye.md) |
 | **Research** | HEIO, HEIM and research influences (Integral / AQAL, Spiral Dynamics, Integral City) | `RESEARCH` | [docs/research.md](docs/research.md) |
 
+Every module on screen: [HollyEarth Visual Atlas](docs/GALLERY.md).
+
 Internal tools (project observatory, project brain, legacy demo modules) are not part of the product navigation. Concept modules that appear only as names in the module registry (for example practice, guide, academies) are **not** part of v0.1.0.

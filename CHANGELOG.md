@@ -1,5 +1,13 @@
 # Changelog
 
+## Visual atlas — 2026-10-09
+
+- **[HollyEarth Visual Atlas](docs/GALLERY.md)** — 15 sections and nine galleries: [Riga Twin](docs/gallery/RIGA_TWIN.md), [Politics and the Integral Political Workspace](docs/gallery/POLITICS.md) (all eight research views), [HollySport](docs/gallery/HOLLYSPORT.md), [Social](docs/gallery/SOCIAL.md), [Investigation](docs/gallery/INVESTIGATION.md), [Monitoring / Observatory](docs/gallery/MONITORING.md), [Holly AI / Story](docs/gallery/HOLLY_AI.md), [Holly Eye](docs/gallery/HOLLY_EYE.md), [Research & Concept Art](docs/gallery/RESEARCH_CONCEPTS.md).
+- 131 published images: 120 real product screenshots (WORKING to FUTURE, each labelled), 2 research concept illustrations and 9 concept illustrations marked as concept / fictional example data / earlier design exploration.
+- README rebuilt around City, Politics, Sport, Social, Investigation, Intelligence, Experience, Research and Future, with 34 images.
+- 3D-city screenshots (Riga Twin, HollySport City) published after the owners confirmed the rights to the GeoRiga data.
+- Public copies: personal data blurred in two frames; one product label corrected (a mistaken VERIFIED badge); demo screens marked; the ecosystem concept's wrong language flags replaced with RU · LV · EN. [media/README.md](media/README.md) lists every change.
+
 ## Documentation update — 2026-10-09
 
 No product release; the public documentation was rebuilt from an internal product audit of v0.1.0.

@@ -10,7 +10,7 @@
 
 `v0.1.0` · только документация и медиа · не open source
 
-[English](../README.md) · **Русский** · [Latviešu](README_LV.md)
+[English](../README.md) · **Русский** · [Latviešu](README_LV.md) · **[Визуальный атлас →](GALLERY.md)**
 
 </div>
 
@@ -44,11 +44,11 @@ HollyEarth — AI-native платформа пространственной, г
 | **Аналитика** | Детерминированный анализ, Holly, наблюдение за источниками, модель — по желанию | `BETA` |
 | **Опыт** | Story на трёх языках, паспорта, досье, дверь в Holly Eye | `WORKING` |
 
-Подробная матрица статусов (на английском): [FEATURE_STATUS.md](FEATURE_STATUS.md).
+Подробная матрица статусов (на английском): [FEATURE_STATUS.md](FEATURE_STATUS.md). Все экраны продукта с метками статусов — в [визуальном атласе](GALLERY.md): [Riga Twin](gallery/RIGA_TWIN.md) · [Политика и Political Workspace](gallery/POLITICS.md) · [HollySport](gallery/HOLLYSPORT.md) · [Social](gallery/SOCIAL.md) · [Расследования](gallery/INVESTIGATION.md) · [Мониторинг](gallery/MONITORING.md) · [Holly AI и Story](gallery/HOLLY_AI.md) · [Исследования и концепты](gallery/RESEARCH_CONCEPTS.md).
 
 ## Riga Twin
 
-> Скриншоты 3D-города появятся после подтверждения условий использования 3D-модели Риги.
+![Riga Twin](../media/screenshots/02-riga-twin.png)
 
 3D-Рига: 58 районов из открытых данных, 428 решений думы с адресом, 14 спортивных территорий, 177 зданий социальных услуг, новости районов, панель думы и переходы во все остальные миры.
 **Пока нет:** общей пространственной идентичности (спорт и социальная сфера открывают свои карты), дел на карте, работающего режима «спросить город». Оценки «Wellbeing» — `DEMO`, не измерения.
@@ -57,7 +57,9 @@ HollyEarth — AI-native платформа пространственной, г
 
 ![Партии и власть](../media/screenshots/17-politics-parties-and-power.png)
 
-175 заседаний, 456 решений, 113 депутатов, 7 партий, официальные итоги выборов 2025 года (60 мест). **Political Holly OS** — 12 модулей: часть работает на реальных данных (Network, Deputies, Parties & Power), часть в бете (Political OS, Live Sessions, Decisions, City Budget, Evidence Ledger), AI Analyzer — прототип, District Impact и Smart City Lenses — `DEMO`, Integral City — исследование. **Political Workspace** — внутренний исследовательский инструмент с 8 видами, `PROTOTYPE`.
+175 заседаний, 456 решений, 113 депутатов, 7 партий, официальные итоги выборов 2025 года (60 мест). **Political Holly OS** — 12 модулей: часть работает на реальных данных (Network, Deputies, Parties & Power), часть в бете (Political OS, Live Sessions, Decisions, City Budget, Evidence Ledger), AI Analyzer — прототип, District Impact и Smart City Lenses — `DEMO`, Integral City — исследование. **Political Workspace** — внутренний исследовательский инструмент с 8 видами (Political Archipelago, Focus Orbit, Evidence & Influence Flow, Holarchic Observatory, Integral Lens Field, Living City Torus, Geo / Twin Bridge, Relationship Graph), `PROTOTYPE`.
+
+<a href="../media/gallery/workspace/01-political-archipelago.webp"><img src="../media/gallery/workspace/01-political-archipelago.webp" alt="Political Archipelago" width="100%"></a>
 Модуль City Budget читает отдельный открытый набор данных о муниципальных расходах; как его записи соотносятся с конкретными платежами — ещё устанавливается.
 
 ## HollySport

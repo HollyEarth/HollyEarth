@@ -10,7 +10,7 @@ Reālas vietas, publiski ieraksti, avoti, pierādījumi un atklāti jautājumi �
 
 `v0.1.0` · tikai dokumentācija un mediji · nav atvērtā koda projekts
 
-[English](../README.md) · [Русский](README_RU.md) · **Latviešu**
+[English](../README.md) · [Русский](README_RU.md) · **Latviešu** · **[Vizuālais atlants →](GALLERY.md)**
 
 </div>
 
@@ -44,11 +44,11 @@ Virziens ir viena ķēde:
 | **Analītika** | Deterministiska analīze, Holly, avotu uzraudzība, valodas modelis — pēc izvēles | `BETA` |
 | **Pieredze** | Stāsts trīs valodās, pases, dosjē, ieeja Holly Eye | `WORKING` |
 
-Detalizēta statusu matrica (angliski): [FEATURE_STATUS.md](FEATURE_STATUS.md).
+Detalizēta statusu matrica (angliski): [FEATURE_STATUS.md](FEATURE_STATUS.md). Visi produkta ekrāni ar statusiem — [vizuālajā atlantā](GALLERY.md): [Riga Twin](gallery/RIGA_TWIN.md) · [Politika un Political Workspace](gallery/POLITICS.md) · [HollySport](gallery/HOLLYSPORT.md) · [Social](gallery/SOCIAL.md) · [Izmeklēšana](gallery/INVESTIGATION.md) · [Uzraudzība](gallery/MONITORING.md) · [Holly AI un stāsts](gallery/HOLLY_AI.md) · [Pētījumi un koncepti](gallery/RESEARCH_CONCEPTS.md).
 
 ## Riga Twin
 
-> 3D pilsētas ekrānuzņēmumi tiks pievienoti, kad būs apstiprināti Rīgas 3D modeļa izmantošanas noteikumi.
+![Riga Twin](../media/screenshots/02-riga-twin.png)
 
 Rīga 3D: 58 apkaimes no atvērtajiem datiem, 428 domes lēmumi ar adresi, 14 sporta teritorijas, 177 sociālo pakalpojumu ēkas, apkaimju ziņas, domes panelis un pārejas uz pārējām pasaulēm.
 **Vēl nav:** kopējas telpiskās identitātes (sports un sociālā joma atver savas kartes), lietu kartē un strādājoša režīma „jautā pilsētai”. „Wellbeing” vērtējumi ir `DEMO`, nevis mērījumi.
@@ -57,7 +57,9 @@ Rīga 3D: 58 apkaimes no atvērtajiem datiem, 428 domes lēmumi ar adresi, 14 sp
 
 ![Partijas un vara](../media/screenshots/17-politics-parties-and-power.png)
 
-175 sēdes, 456 lēmumi, 113 deputāti, 7 partijas, 2025. gada vēlēšanu oficiālie rezultāti (60 vietas). **Political Holly OS** — 12 moduļi: daļa strādā ar reāliem datiem (Network, Deputies, Parties & Power), daļa ir beta versijā (Political OS, Live Sessions, Decisions, City Budget, Evidence Ledger), AI Analyzer ir prototips, District Impact un Smart City Lenses ir `DEMO`, Integral City ir pētījums. **Political Workspace** ir iekšējs pētniecības rīks ar 8 skatiem, `PROTOTYPE`.
+175 sēdes, 456 lēmumi, 113 deputāti, 7 partijas, 2025. gada vēlēšanu oficiālie rezultāti (60 vietas). **Political Holly OS** — 12 moduļi: daļa strādā ar reāliem datiem (Network, Deputies, Parties & Power), daļa ir beta versijā (Political OS, Live Sessions, Decisions, City Budget, Evidence Ledger), AI Analyzer ir prototips, District Impact un Smart City Lenses ir `DEMO`, Integral City ir pētījums. **Political Workspace** ir iekšējs pētniecības rīks ar 8 skatiem (Political Archipelago, Focus Orbit, Evidence & Influence Flow, Holarchic Observatory, Integral Lens Field, Living City Torus, Geo / Twin Bridge, Relationship Graph), `PROTOTYPE`.
+
+<a href="../media/gallery/workspace/01-political-archipelago.webp"><img src="../media/gallery/workspace/01-political-archipelago.webp" alt="Political Archipelago" width="100%"></a>
 Modulis City Budget izmanto atsevišķu atvērto datu kopu par pašvaldības izdevumiem; kā tās ieraksti attiecas uz konkrētiem maksājumiem, vēl tiek noskaidrots.
 
 ## HollySport

@@ -2,7 +2,9 @@
 
 The **City** in HollyEarth is a 3D twin of Riga: a photogrammetric city scene with layers from the other worlds. Status: `WORKING`.
 
-> Screenshots of the 3D city will be added once the reuse terms of the Riga 3D city model are confirmed.
+![Riga Twin](../media/screenshots/02-riga-twin.png)
+
+<sub>Real screenshot, v0.1.0. Interface partly in Russian; the "Wellbeing" pins are labelled DEMO. More screens: [Riga Twin gallery](gallery/RIGA_TWIN.md).</sub>
 
 ## Layers
 

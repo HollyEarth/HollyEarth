@@ -39,10 +39,10 @@ Columns: **source** | **used for** | **provenance in HollyEarth** | **reuse / li
 |---|---|---|---|
 | OpenStreetMap | Basemap data in the Twin | Attribution displayed in the map | REVIEW REQUIRED |
 | ArcGIS / Esri platform and basemaps | 3D scene engine and basemaps for the Twin | Attribution displayed in the map | REVIEW REQUIRED |
-| GeoRiga — Riga photorealistic 3D model and LOD2 buildings; Latvian Geospatial Information Agency (LGIA) reality model | 3D Riga in the Twin and HollySport City | Loaded from the publishers' hosted scene services | REVIEW REQUIRED — screenshots showing the 3D model are not published until reuse terms are confirmed |
+| GeoRiga — Riga photorealistic 3D model and LOD2 buildings; Latvian Geospatial Information Agency (LGIA) reality model | 3D Riga in the Twin and HollySport City | Loaded from the publishers' hosted scene services | Rights confirmed by the owners for the published screenshots (2026-10); attribution shown in the product and in [media/README.md](media/README.md) |
 | Riga news headlines (public broadcaster RSS) | District news markers (headlines and links only, no article text) | Linked, not stored | REVIEW REQUIRED |
 | Open-Meteo | Weather and air-quality widget | Live request | REVIEW REQUIRED |
-| Portraits from public institutional pages and Wikimedia Commons | Faces of public figures and athletes where available | Each image keeps its origin and licence note | REVIEW REQUIRED (per image) |
+| Portraits from public institutional pages (Riga City Council deputy portraits) and Wikimedia Commons | Faces of public figures and athletes where available | Each image keeps its origin and licence note | Deputy portraits shown in published screenshots by owner decision (2026-10); others REVIEW REQUIRED (per image) |
 
 ## Third-party components and integrations
 

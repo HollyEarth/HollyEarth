@@ -32,7 +32,11 @@ HollySport is the sport world: Latvian sport records turned into a navigable cit
 
 ## HollySport City — `WORKING` (real layer)
 
-A game-styled city view with real counts, real clubs and venues on the map, real archive events and a search for people, clubs and events. Season, missions and district levels on the same screen are a labelled DEMO preview. Screenshots of Sport City will be added once the reuse terms of the Riga 3D city model are confirmed.
+A game-styled city view with real counts, real clubs and venues on the map, real archive events and a search for people, clubs and events.
+
+![HollySport City](../media/screenshots/07-hollysport-city.png)
+
+<sub>Real screenshot, v0.1.0. Season, missions and district levels are a DEMO preview; posters are concept illustrations. More screens: [HollySport gallery](gallery/HOLLYSPORT.md).</sub>
 
 ## Archive
 
@@ -48,9 +52,12 @@ Clubs, athletes, events, rankings, sport map and sport graph (18,759 entities, 2
 | Creator, partnerships, outreach, organiser and reviewer accounts | `PROTOTYPE` — test use only |
 | Market, wallet, leagues, club tokens, ticketing (MetaSport economy) | `FUTURE` — preview sheets: no accounts, payments or contracts |
 
-<img src="../media/screenshots/15-create-event-preview.png" alt="Event planning preview" width="70%">
-
-<sub>Event OS (PROTOTYPE, Russian interface): a draft kept only in the browser.</sub>
+<table>
+<tr>
+<td width="50%"><img src="../media/screenshots/15-create-event-preview.png" alt="Event planning preview"><br><sub>Event OS (PROTOTYPE, Russian interface): a draft kept only in the browser.</sub></td>
+<td width="50%"><img src="../media/screenshots/16-hollysport-missions-demo.png" alt="Missions demo"><br><sub>Missions — DEMO.</sub></td>
+</tr>
+</table>
 
 ## Sport → investigation
 

@@ -1,20 +1,48 @@
 # Roadmap
 
-Direction, not commitments. Nothing here is available until it appears in [CHANGELOG.md](CHANGELOG.md) and [CAPABILITIES.md](CAPABILITIES.md).
+Direction, not commitments and not dates. Nothing here is available until it appears in [CHANGELOG.md](CHANGELOG.md) and [docs/FEATURE_STATUS.md](docs/FEATURE_STATUS.md).
 
-## Near term
-- **Hosted access** — a hosted instance so HollyEarth can be shown without a private installation.
-- **Scheduled monitoring** — sources behind cases re-checked on a schedule, with changes surfaced on the case.
-- **Public money in sport** — connecting clubs to recorded public support, so the Sport → Case bridge carries money, not only identity.
-- **Human review in use** — reviewers resolving identity questions and confirming records, so more of the graph moves from asserted to verified.
-- **Reviewed data terms** — every source in [DATA_SOURCES.md](DATA_SOURCES.md) reviewed for reuse.
+## Exists today — v0.1.0
 
-## Next
-- **Social: from supply to need** — data on services actually received, outcomes and actual payments, alongside what is registered.
-- **Cross-domain search and entity pages** — one way to find a person, organisation or place across all lenses.
-- **A Holly assistant across the product** — beyond the case, still bound to the same evidence rules.
+- **Riga Twin** — 3D Riga with district, council-decision, sport and social layers.
+- **Investigation** — cases with claims, sources, quotations, typed money, open questions, roadmap, analysis and Story.
+- **HollySport** — sport data from federations, result books and archives; club, athlete, event and venue passports; Sport City.
+- **Social Intelligence** — Riga's register of social service providers as an interactive stage with dossiers.
+- **Politics** — council records, deputies, parties and elections; a set of modules from working to demo; the Political Workspace (internal prototype).
+- **Monitoring** — watches on official sources behind cases, run by hand.
+- **Holly** — deterministic helpers and a case-scoped assistant; optional model reasoning and voice.
+- **Russian, Latvian and English.**
+- **Holly Eye door** — a third-party planetary view (God's Eye View by Bilawal Sidhu), integrated.
+
+## In development
+
+- **Shared identity across domains** — organisations, people and places recognised across politics, sport, social and cases, including an organisational hierarchy for municipal bodies.
+- **Social in the main graph** — providers, services and buildings as canonical records and places.
+- **Money semantics** — planned, committed, contracted, awarded, invoiced and paid kept as distinct steps; the meaning of the municipal spending dataset established.
+- **Scheduled monitoring** — sources re-checked automatically, with changes surfaced on the case.
+- **Human review** — reviewers resolving identity questions and confirming claims; model-extracted records marked in the interface.
+- **Story traceability** — every chapter linked to the claims it tells.
+- **Hosted pilot and production hardening** — authentication, rate limits and AI cost controls before any public deployment.
+- **HollySport prototypes** — Event OS (planning events), Creator, partnerships and outreach, tested with real organisers.
+- **Voice** — browser, local and hosted voices for Story.
 
 ## Research
-- HollySport game layer (seasons, missions, progression) on top of real results.
-- Community and fan features, market, wallet, leagues, ticketing.
-- Further cities and further domains as lenses on the same graph.
+
+- **HEIO** — HollyEarth Integral Ontology (v0.1), concept architecture.
+- **HEIM** — HollyEarth Integrative Metatheory & Context System (v0.2), concept architecture.
+- **Integral / AQAL**, **Spiral Dynamics** (context only, never people), **Integral City** — research influences and lenses.
+- **Social need and outcomes** — what data could show need, people served, quality and actual payments.
+
+See [docs/research.md](docs/research.md).
+
+## Demo
+
+- **HollySport game layer** — season, missions, XP and district levels remain a labelled `DEMO` until they are built on real mechanics.
+
+## Future
+
+- **Action and governance** — turning insight into governed action, appeals and recorded outcomes. Nothing is written back to the world in v0.1.0.
+- **HollyWorlds** — expanded 3D worlds and interactive environments.
+- **MetaSport economy** — market, wallet, leagues, club tokens, ticketing.
+- **Public hosted instance** — open access for partners and the public.
+- **More cities, regions and countries** — beyond Riga.

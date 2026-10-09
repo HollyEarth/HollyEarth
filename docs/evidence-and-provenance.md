@@ -15,11 +15,14 @@ Every figure HollyEarth shows should be traceable. Two questions are always answ
 |---|---|
 | Imported, unverified | Faithfully what an official source published; not independently checked |
 | Asserted | A statement extracted from a document |
-| Partially supported | The source supports part of the statement |
-| Corroborated / verified | An independent check could have failed and did not |
+| Directly supported (shown as "confirmed" in cases) | The quotation supports the whole statement — it does not mean the fact was checked independently |
+| Partially supported | The quotation supports part of the statement |
+| Corroborated | An automated cross-check against an independent institutional source could have failed and did not |
+| Verified (relationships) | A structural link taken from an official source's own metadata, for example meeting → agenda item → decision |
+| Checked by a person | **None in v0.1.0** — a human review workflow is in development |
 | Unknown / no record | The archive does not hold this — which is not the same as "none" |
 
 ## Monitoring
-For the official sources behind a case (for example company officers and procurement results), HollyEarth stores snapshots and compares them, distinguishing **"no change"** from **"the source did not answer"**. Status: **BETA** — checks run on request, not yet on a schedule.
+For the official sources behind a case (for example company officers and procurement results), HollyEarth stores snapshots and compares them, distinguishing **"no change"** from **"the source did not answer"**. Status: `BETA` — checks run on request, not yet on a schedule. See [monitoring.md](monitoring.md).
 
 See also [DATA_PRINCIPLES.md](../DATA_PRINCIPLES.md).

@@ -11,6 +11,8 @@ Columns: **source** | **used for** | **provenance in HollyEarth** | **reuse / li
 | Riga City Council — agenda and decision publications (riga.lv) | Meetings, agenda items, decisions, decision documents | Imported per publication snapshot; every record links to its source | REVIEW REQUIRED |
 | Riga City Council — voting protocols (pkip.riga.lv) | Ballots and individual votes | Parsed from published protocols | REVIEW REQUIRED |
 | Riga City Council — deputies and factions (riga.lv) and Central Election Commission results | Deputies, factions, electoral lists | Imported, status "imported, unverified" | REVIEW REQUIRED |
+| Riga City Council — session video recordings | Live Sessions module (links to recordings) | Linked per session | REVIEW REQUIRED |
+| data.gov.lv — Riga municipality spending dataset | Politics "City Budget" module | Read from the open dataset; the meaning of its records with respect to individual payments is still being established | REVIEW REQUIRED |
 | Riga municipality — list of delegation and cooperation agreements | Social-services agreements and counterparties | Imported; provider matching labelled by strength | REVIEW REQUIRED |
 | Riga City Council — territories granted to education, culture and sport institutions | Sport plots shown on the Twin | Imported area geometry | REVIEW REQUIRED |
 | data.gov.lv — Riga neighbourhood (apkaime) boundaries | District geometry on all maps | Official shapefile | REVIEW REQUIRED |
@@ -37,7 +39,7 @@ Columns: **source** | **used for** | **provenance in HollyEarth** | **reuse / li
 |---|---|---|---|
 | OpenStreetMap | Basemap data in the Twin | Attribution displayed in the map | REVIEW REQUIRED |
 | ArcGIS / Esri platform and basemaps | 3D scene engine and basemaps for the Twin | Attribution displayed in the map | REVIEW REQUIRED |
-| Riga 3D city mesh and LOD2 building scenes (hosted map services) | 3D Riga in the Twin | Loaded from hosted scene services | REVIEW REQUIRED |
+| GeoRiga — Riga photorealistic 3D model and LOD2 buildings; Latvian Geospatial Information Agency (LGIA) reality model | 3D Riga in the Twin and HollySport City | Loaded from the publishers' hosted scene services | REVIEW REQUIRED — screenshots showing the 3D model are not published until reuse terms are confirmed |
 | Riga news headlines (public broadcaster RSS) | District news markers (headlines and links only, no article text) | Linked, not stored | REVIEW REQUIRED |
 | Open-Meteo | Weather and air-quality widget | Live request | REVIEW REQUIRED |
 | Portraits from public institutional pages and Wikimedia Commons | Faces of public figures and athletes where available | Each image keeps its origin and licence note | REVIEW REQUIRED (per image) |

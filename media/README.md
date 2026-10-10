@@ -2,7 +2,7 @@
 
 Every image published in this repository: file, title, status shown, attribution and any change made in the public copy. Browse them by world in the **[HollyEarth Visual Atlas](../docs/GALLERY.md)**. Publication rules: [SCREENSHOT_PLAN.md](SCREENSHOT_PLAN.md).
 
-**131 images** — 18 screenshots (PNG), 102 gallery screenshots (WebP), 2 research concept illustrations (PNG), 9 marked concept illustrations (WebP).
+**177 images** — 18 screenshots (PNG), 148 gallery screenshots (WebP, including 46 of Holly Eye), 2 research concept illustrations (PNG), 9 marked concept illustrations (WebP).
 
 ## About these images
 
@@ -193,6 +193,61 @@ Full list of sources and the state of their reuse terms: [DATA_SOURCES.md](../DA
 | [05-story-assembled.webp](gallery/holly/05-story-assembled.webp) | Story assembled | `WORKING` | case records | — |
 | [06-story-versions-social-case.webp](gallery/holly/06-story-versions-social-case.webp) | Story versions social case | `WORKING` | case records | — |
 
+## Holly Eye — `media/gallery/holly-eye/` · [gallery](../docs/gallery/HOLLY_EYE.md) · [provenance](HOLLY_EYE_PROVENANCE.md)
+
+Authorship, sources, licences, terms and the basis for publishing each image: **[HOLLY_EYE_PROVENANCE.md](HOLLY_EYE_PROVENANCE.md)**.
+
+Holly Eye is a **third-party integration** — the open-source application God's Eye View by Bilawal Sidhu (MIT) — not HollyEarth Core. Captured 9 October 2026 from the running application. Each copy keeps the frame unchanged, including the application's own map credits and the provider's notices, and adds an information band **below** the frame (status, layer data source, map / imagery credit).
+
+| File | Section | Status | Layer data | Map / imagery |
+|---|---|---|---|---|
+| [01-planet-europe-3d.webp](gallery/holly-eye/01-planet-europe-3d.webp) | Planetary view | `BETA` | — | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [02-planet-europe-osm.webp](gallery/holly-eye/02-planet-europe-osm.webp) | Planetary view | `BETA` | — | © OpenStreetMap contributors (ODbL); Re:Earth Terrain (CC BY 4.0) |
+| [03-riga-3d-old-town.webp](gallery/holly-eye/03-riga-3d-old-town.webp) | Planetary view | `BETA` | — | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [05-riga-osm.webp](gallery/holly-eye/05-riga-osm.webp) | Planetary view | `BETA` | — | © OpenStreetMap contributors (ODbL); Re:Earth Terrain (CC BY 4.0) |
+| [06-first-view-chooser.webp](gallery/holly-eye/06-first-view-chooser.webp) | Planetary view | `BETA` | — | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [07-display-panel.webp](gallery/holly-eye/07-display-panel.webp) | Planetary view | `BETA` | — | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [08-visual-presets.webp](gallery/holly-eye/08-visual-presets.webp) | Planetary view | `BETA` | — | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [09-style-nvg.webp](gallery/holly-eye/09-style-nvg.webp) | Planetary view | `BETA` | — | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [10-style-flir.webp](gallery/holly-eye/10-style-flir.webp) | Planetary view | `BETA` | — | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [11-style-anime.webp](gallery/holly-eye/11-style-anime.webp) | Planetary view | `BETA` | — | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [12-style-noir.webp](gallery/holly-eye/12-style-noir.webp) | Planetary view | `BETA` | — | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [13-style-snow.webp](gallery/holly-eye/13-style-snow.webp) | Planetary view | `BETA` | — | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [14-style-crt.webp](gallery/holly-eye/14-style-crt.webp) | Planetary view | `BETA` | — | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [15-location-search.webp](gallery/holly-eye/15-location-search.webp) | Planetary view | `BETA` | — | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [16-data-attribution.webp](gallery/holly-eye/16-data-attribution.webp) | Planetary view | `WORKING` | — | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [20-data-layers-panel.webp](gallery/holly-eye/20-data-layers-panel.webp) | World layers | `WORKING` | — | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [21-live-flights.webp](gallery/holly-eye/21-live-flights.webp) | World layers | `WORKING` | OpenSky Network | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [21b-live-flights-osm.webp](gallery/holly-eye/21b-live-flights-osm.webp) | World layers | `WORKING` | OpenSky Network | © OpenStreetMap contributors (ODbL); Re:Earth Terrain (CC BY 4.0) |
+| [23-military-flights.webp](gallery/holly-eye/23-military-flights.webp) | World layers | `WORKING` | adsb.lol | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [24-ais-vessels-channel.webp](gallery/holly-eye/24-ais-vessels-channel.webp) | World layers | `WORKING` | AISStream | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [24b-ais-vessels-osm.webp](gallery/holly-eye/24b-ais-vessels-osm.webp) | World layers | `WORKING` | AISStream | © OpenStreetMap contributors (ODbL); Re:Earth Terrain (CC BY 4.0) |
+| [25-street-traffic-simulated.webp](gallery/holly-eye/25-street-traffic-simulated.webp) | World layers | `PROTOTYPE` | OpenStreetMap road geometry · SIMULATED traffic (no live feed configured) | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [27-radio.webp](gallery/holly-eye/27-radio.webp) | World layers | `WORKING` | Radio Browser | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [30-datacenters.webp](gallery/holly-eye/30-datacenters.webp) | World layers | `WORKING` | Bundled public dataset | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [31-dams.webp](gallery/holly-eye/31-dams.webp) | World layers | `WORKING` | USACE National Inventory of Dams | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [32-context-contacts.webp](gallery/holly-eye/32-context-contacts.webp) | World layers | `BETA` | OpenSky Network / adsb.lol (public ADS-B) | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [40-satellites.webp](gallery/holly-eye/40-satellites.webp) | Space & satellites | `WORKING` | CelesTrak (TLEs) | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [41-satellites-globe.webp](gallery/holly-eye/41-satellites-globe.webp) | Space & satellites | `WORKING` | CelesTrak (TLEs) | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [42-satellites-close.webp](gallery/holly-eye/42-satellites-close.webp) | Space & satellites | `WORKING` | CelesTrak (TLEs) | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [43-satellites-osm.webp](gallery/holly-eye/43-satellites-osm.webp) | Space & satellites | `WORKING` | CelesTrak (TLEs) | © OpenStreetMap contributors (ODbL); Re:Earth Terrain (CC BY 4.0) |
+| [44-space-missions.webp](gallery/holly-eye/44-space-missions.webp) | Space & satellites | `WORKING` | Launch Library 2 (The Space Devs) | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [45-space-missions-osm.webp](gallery/holly-eye/45-space-missions-osm.webp) | Space & satellites | `WORKING` | Launch Library 2 (The Space Devs) | © OpenStreetMap contributors (ODbL); Re:Earth Terrain (CC BY 4.0) |
+| [46-context-space-missions.webp](gallery/holly-eye/46-context-space-missions.webp) | Space & satellites | `BETA` | Launch Library 2 (The Space Devs) | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [47-scene-orbital-watch.webp](gallery/holly-eye/47-scene-orbital-watch.webp) | Space & satellites | `BETA` | CelesTrak (TLEs) | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [50-earthquakes.webp](gallery/holly-eye/50-earthquakes.webp) | Environmental | `WORKING` | USGS (24 h) | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [51-earthquakes-osm.webp](gallery/holly-eye/51-earthquakes-osm.webp) | Environmental | `WORKING` | USGS (24 h) | © OpenStreetMap contributors (ODbL); Re:Earth Terrain (CC BY 4.0) |
+| [52-active-fires-osm.webp](gallery/holly-eye/52-active-fires-osm.webp) | Environmental | `WORKING` | NASA FIRMS | © OpenStreetMap contributors (ODbL); Re:Earth Terrain (CC BY 4.0) |
+| [53-active-fires-osm-close.webp](gallery/holly-eye/53-active-fires-osm-close.webp) | Environmental | `WORKING` | NASA FIRMS | © OpenStreetMap contributors (ODbL); Re:Earth Terrain (CC BY 4.0) |
+| [54-scene-thermal-board.webp](gallery/holly-eye/54-scene-thermal-board.webp) | Environmental | `BETA` | USGS / NASA FIRMS | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [60-scenes-panel.webp](gallery/holly-eye/60-scenes-panel.webp) | Scenes | `BETA` | — | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [61-scene-global-flights-radar.webp](gallery/holly-eye/61-scene-global-flights-radar.webp) | Scenes | `BETA` | OpenSky Network | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [62-scene-city-overload.webp](gallery/holly-eye/62-scene-city-overload.webp) | Scenes | `BETA` | multiple layers | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [63-scene-omniscience-pullback.webp](gallery/holly-eye/63-scene-omniscience-pullback.webp) | Scenes | `BETA` | multiple layers | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [70-voice-dock.webp](gallery/holly-eye/70-voice-dock.webp) | Voice | `PROTOTYPE` | voice service not configured in this build | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+| [80-hollyearth-start-world-door.webp](gallery/holly-eye/80-hollyearth-start-world-door.webp) | HollyEarth ↔ Holly Eye | `WORKING` | — | — |
+| [82-holly-eye-after-door.webp](gallery/holly-eye/82-holly-eye-after-door.webp) | HollyEarth ↔ Holly Eye | `BETA` | — | Google 3D tiles / globe imagery via Cesium ion (credits in frame) |
+
 ## Research concept illustrations — `media/concepts/`
 
 | File | Subject | Status of the subject |
@@ -216,7 +271,7 @@ Full list of sources and the state of their reuse terms: [DATA_SOURCES.md](../DA
 
 ## Not published
 
-Screens that show the addresses of crisis centres, shelters or other sensitive social services; names of minors or of private individuals where they cannot be hidden; internal file paths, credential errors or private repository addresses; Holly Eye (third-party imagery terms pending). Their functions are still described in the galleries.
+Screens that show the addresses of crisis centres, shelters or other sensitive social services; names of minors or of private individuals where they cannot be hidden; internal file paths, credential errors or private repository addresses; Holly Eye views that could not be captured (CCTV, a wide Riga view, flights over Riga in 3D — the page stops rendering under that load). Their functions are still described in the galleries.
 
 ## Videos — `media/videos/`
 

@@ -49,7 +49,7 @@ Columns: **source** | **used for** | **provenance in HollyEarth** | **reuse / li
 | Component | Used for | Provenance | Reuse / licence status |
 |---|---|---|---|
 | God's Eye View (Bilawal Sidhu), used as **Holly Eye** | Planetary view, run as a separate application | Third-party open-source project, integrated, not owned by HollyEarth | REVIEW REQUIRED (project states MIT; attribution and data terms to be reviewed) |
-| Datasets and 3D tiles used by God's Eye View (e.g. Cesium ion, Google map tiles) | Inside the Holly Eye application only | Third-party | REVIEW REQUIRED |
+| Datasets and 3D tiles used by God's Eye View (e.g. Google Photorealistic 3D Tiles via Cesium ion, OpenStreetMap, OpenSky, adsb.lol, USGS, CelesTrak, Launch Library 2, AISStream, NASA FIRMS, Radio Browser, USACE) | Inside the Holly Eye application only; shown in the [Holly Eye gallery](docs/gallery/HOLLY_EYE.md) | Third-party | Terms per image and the basis for publishing: [media/HOLLY_EYE_PROVENANCE.md](media/HOLLY_EYE_PROVENANCE.md) |
 | Google Vertex AI (Gemini models) | Optional wording of stories and research assistance | Called only on explicit action; outputs labelled | REVIEW REQUIRED |
 | ElevenLabs | Optional voice narration of stories | Generated only after explicit confirmation | REVIEW REQUIRED |
 | Qwen3-TTS (local model) | Optional local voice narration | Third-party model | REVIEW REQUIRED |

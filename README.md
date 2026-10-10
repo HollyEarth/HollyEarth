@@ -37,7 +37,7 @@ HollyEarth is an AI-native platform for spatial, civic and investigative intelli
 | **Social — Social Intelligence** | Riga's registered social services on an interactive city stage | `SHOWCASE_READY` | [Social](docs/gallery/SOCIAL.md) |
 | **Investigation** | Cases built from documents: claims, sources, quotations, typed money, open questions | `WORKING` | [Investigation](docs/gallery/INVESTIGATION.md) |
 | **Intelligence** | Deterministic analysis, Holly, monitoring, optional model reasoning | `BETA` | [Holly AI](docs/gallery/HOLLY_AI.md) · [Monitoring](docs/gallery/MONITORING.md) |
-| **Experience** | Story in three languages, passports, dossiers, the Holly Eye door | `WORKING` | [Story](docs/gallery/HOLLY_AI.md#story) · [Holly Eye](docs/gallery/HOLLY_EYE.md) |
+| **Experience** | Story in three languages, passports, dossiers; Holly Eye — a third-party 3D globe with live world layers | `WORKING` · Holly Eye `BETA` | [Story](docs/gallery/HOLLY_AI.md#story) · [Holly Eye](docs/gallery/HOLLY_EYE.md) |
 
 Statuses: `SHOWCASE_READY` · `WORKING` · `BETA` · `PROTOTYPE` · `DEMO` · `RESEARCH` · `FUTURE` — every feature in **[docs/FEATURE_STATUS.md](docs/FEATURE_STATUS.md)**. Every screen of the product, labelled: **[HollyEarth Visual Atlas](docs/GALLERY.md)**.
 
@@ -165,11 +165,21 @@ HollyEarth works without a language model. Holly is deterministic helpers plus a
 <tr>
 <td width="33%"><a href="media/screenshots/06-story.png"><img src="media/screenshots/06-story.png" alt="Story"></a><br><sub><b>Story</b> — a case told as chapters in RU / LV / EN, assembled from its records. `WORKING`</sub></td>
 <td width="33%"><a href="media/gallery/holly/04-story-versions.webp"><img src="media/gallery/holly/04-story-versions.webp" alt="Story versions and voices"></a><br><sub><b>Versions and voices</b> — local, hosted (with confirmation) or browser voice. `BETA`</sub></td>
-<td width="33%"><a href="media/screenshots/01-start.png"><img src="media/screenshots/01-start.png" alt="Start and World door"></a><br><sub><b>Start and World</b> — the World door opens Holly Eye, a <b>third-party integration</b> (God's Eye View by Bilawal Sidhu), not HollyEarth technology.</sub></td>
+<td width="33%"><a href="media/gallery/holly-eye/01-planet-europe-3d.webp"><img src="media/gallery/holly-eye/01-planet-europe-3d.webp" alt="Holly Eye globe"></a><br><sub><b>World — Holly Eye</b> — a 3D globe with live public data layers. A <b>third-party integration</b> (God's Eye View by Bilawal Sidhu), not HollyEarth technology. `BETA`</sub></td>
+</tr>
+<tr>
+<td width="33%"><a href="media/gallery/holly-eye/40-satellites.webp"><img src="media/gallery/holly-eye/40-satellites.webp" alt="Holly Eye satellites"></a><br><sub>Holly Eye — 830 satellites from CelesTrak</sub></td>
+<td width="33%"><a href="media/gallery/holly-eye/03-riga-3d-old-town.webp"><img src="media/gallery/holly-eye/03-riga-3d-old-town.webp" alt="Holly Eye Riga in 3D"></a><br><sub>Holly Eye — Riga in 3D</sub></td>
+<td width="33%"><a href="media/gallery/holly-eye/21-live-flights.webp"><img src="media/gallery/holly-eye/21-live-flights.webp" alt="Holly Eye live flights"></a><br><sub>Holly Eye — live flights</sub></td>
+</tr>
+<tr>
+<td width="33%"><a href="media/gallery/holly-eye/24-ais-vessels-channel.webp"><img src="media/gallery/holly-eye/24-ais-vessels-channel.webp" alt="Holly Eye AIS vessels"></a><br><sub>Holly Eye — live AIS vessels</sub></td>
+<td width="33%"><a href="media/gallery/holly-eye/53-active-fires-osm-close.webp"><img src="media/gallery/holly-eye/53-active-fires-osm-close.webp" alt="Holly Eye NASA FIRMS fires"></a><br><sub>Holly Eye — NASA FIRMS active fires</sub></td>
+<td width="33%"></td>
 </tr>
 </table>
 
-Not every story chapter is linked to individual claims yet. → [Story](docs/gallery/HOLLY_AI.md#story) · [Holly Eye](docs/gallery/HOLLY_EYE.md) · [docs/story.md](docs/story.md)
+Not every story chapter is linked to individual claims yet. → [Story](docs/gallery/HOLLY_AI.md#story) · [Holly Eye gallery](docs/gallery/HOLLY_EYE.md) · [Holly Eye media provenance](media/HOLLY_EYE_PROVENANCE.md) · [docs/story.md](docs/story.md)
 
 ---
 

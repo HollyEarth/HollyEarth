@@ -1,5 +1,12 @@
 # Changelog
 
+## Holly Eye gallery — 2026-10-09
+
+- **[Holly Eye gallery](docs/gallery/HOLLY_EYE.md)** — 46 new screenshots of the third-party Holly Eye integration (God's Eye View by Bilawal Sidhu, MIT): the 3D globe and Riga in 3D, eight visual styles, 14 world layers (flights, military flights, satellites, space missions, earthquakes, NASA FIRMS active fires, AIS vessels, radio, datacenters, dams, simulated street traffic and more), scenes, context, the voice dock and the door from HollyEarth.
+- Each copy keeps the frame unchanged — including the application's own map credits and the provider's notices — and adds an information band below it with status, layer data source and map / imagery credit.
+- [Media provenance](media/HOLLY_EYE_PROVENANCE.md) for every image — application by Bilawal Sidhu, integration and interface by HollyEarth / Lab Da Riga, map imagery and data by their providers — with the terms that apply. The images are shared as part of a non-commercial presentation (owners' determination); the MIT licence of the application covers its code, not the map imagery or data.
+- Visual Atlas, README, [docs/holly-eye.md](docs/holly-eye.md) and the media index updated.
+
 ## Visual atlas — 2026-10-09
 
 - **[HollyEarth Visual Atlas](docs/GALLERY.md)** — 15 sections and nine galleries: [Riga Twin](docs/gallery/RIGA_TWIN.md), [Politics and the Integral Political Workspace](docs/gallery/POLITICS.md) (all eight research views), [HollySport](docs/gallery/HOLLYSPORT.md), [Social](docs/gallery/SOCIAL.md), [Investigation](docs/gallery/INVESTIGATION.md), [Monitoring / Observatory](docs/gallery/MONITORING.md), [Holly AI / Story](docs/gallery/HOLLY_AI.md), [Holly Eye](docs/gallery/HOLLY_EYE.md), [Research & Concept Art](docs/gallery/RESEARCH_CONCEPTS.md).

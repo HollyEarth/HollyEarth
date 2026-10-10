@@ -25,7 +25,7 @@ Real screens of HollyEarth v0.1.0 — a pilot and research & development project
 | 09 | [Monitoring / Observatory](#09--monitoring--observatory) | 11 | [MONITORING.md](gallery/MONITORING.md) |
 | 10 | [Holly AI](#10--holly-ai) | 3 | [HOLLY_AI.md](gallery/HOLLY_AI.md) |
 | 11 | [Story / Voice](#11--story--voice) | 4 | [HOLLY_AI.md](gallery/HOLLY_AI.md#story) |
-| 12 | [Holly Eye](#12--holly-eye) | — | [HOLLY_EYE.md](gallery/HOLLY_EYE.md) |
+| 12 | [Holly Eye](#12--holly-eye) | 46 | [HOLLY_EYE.md](gallery/HOLLY_EYE.md) |
 | 13 | [Research Foundations](#13--research-foundations) | 2 | [RESEARCH_CONCEPTS.md](gallery/RESEARCH_CONCEPTS.md) |
 | 14 | [Concept Art](#14--concept-art) | 9 | [RESEARCH_CONCEPTS.md](gallery/RESEARCH_CONCEPTS.md#concept-art--design-explorations) |
 | 15 | [Future Worlds](#15--future-worlds) | — | [ROADMAP.md](../ROADMAP.md) |
@@ -182,7 +182,24 @@ A case told as chapters in Russian, Latvian or English, assembled from the case'
 
 ## 12 — Holly Eye
 
-The World door opens Holly Eye — **a third-party integration (God's Eye View by Bilawal Sidhu), not HollyEarth's own technology**. → **[Holly Eye](gallery/HOLLY_EYE.md)** (screenshot pending a review of third-party imagery terms)
+<a href="../media/gallery/holly-eye/01-planet-europe-3d.webp"><img src="../media/gallery/holly-eye/01-planet-europe-3d.webp" alt="Holly Eye globe" width="100%"></a>
+
+The World door opens Holly Eye — a 3D globe and 3D cities with 14 live public data layers: flights, military flights, satellites, space missions, earthquakes, active fires, vessels, radio, CCTV and more, plus scenes, visual styles and voice commands. **A third-party integration (God's Eye View by Bilawal Sidhu, MIT), not HollyEarth's own technology.** `BETA`
+
+<table>
+<tr>
+<td width="33%"><a href="../media/gallery/holly-eye/40-satellites.webp"><img src="../media/gallery/holly-eye/40-satellites.webp" alt="Satellites"></a><br><sub>Satellites</sub></td>
+<td width="33%"><a href="../media/gallery/holly-eye/03-riga-3d-old-town.webp"><img src="../media/gallery/holly-eye/03-riga-3d-old-town.webp" alt="Riga in 3D"></a><br><sub>Riga in 3D</sub></td>
+<td width="33%"><a href="../media/gallery/holly-eye/21-live-flights.webp"><img src="../media/gallery/holly-eye/21-live-flights.webp" alt="Live flights"></a><br><sub>Live flights</sub></td>
+</tr>
+<tr>
+<td width="33%"><a href="../media/gallery/holly-eye/50-earthquakes.webp"><img src="../media/gallery/holly-eye/50-earthquakes.webp" alt="Earthquakes"></a><br><sub>Earthquakes</sub></td>
+<td width="33%"><a href="../media/gallery/holly-eye/47-scene-orbital-watch.webp"><img src="../media/gallery/holly-eye/47-scene-orbital-watch.webp" alt="Orbital Watch"></a><br><sub>Orbital Watch scene</sub></td>
+<td width="33%"><a href="../media/gallery/holly-eye/09-style-nvg.webp"><img src="../media/gallery/holly-eye/09-style-nvg.webp" alt="NVG style"></a><br><sub>NVG style</sub></td>
+</tr>
+</table>
+
+→ **[Holly Eye gallery](gallery/HOLLY_EYE.md)** — planetary view, world layers, space & satellites, environmental data, scenes, voice, the door · [media provenance](../media/HOLLY_EYE_PROVENANCE.md): authorship, sources, licences and terms of every image.
 
 ## 13 — Research Foundations
 

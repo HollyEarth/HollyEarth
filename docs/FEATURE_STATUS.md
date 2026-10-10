@@ -193,7 +193,7 @@ Internal research tool (separate page), `PROTOTYPE`. It shows up to 793 of the 3
 | Feature | Module | Status | Real data | What works | Limitations | Next step |
 |---|---|---|---|---|---|---|
 | World door | World | `WORKING` | — | Opens Holly Eye or says plainly that it is not running | — | — |
-| Holly Eye planetary view | World | `BETA` | Third-party 3D map tiles and world layers | Photorealistic globe and layer menus | **Third-party application (God's Eye View by Bilawal Sidhu), not HollyEarth technology**; English only; opens outside Riga; depends on third-party keys | — |
+| Holly Eye planetary view | World | `BETA` | Third-party 3D map tiles and 14 public data layers (flights, military flights, earthquakes, satellites, space missions, CCTV, radio, bikeshare, AIS vessels, installations, datacenters, dams, active fires, simulated street traffic) | 3D globe and 3D cities, layer menus, scenes, context, eight visual styles, data-attribution list — see the [Holly Eye gallery](gallery/HOLLY_EYE.md) | **Third-party application (God's Eye View by Bilawal Sidhu), not HollyEarth technology**; English only; opens over Austin by default; depends on third-party keys; street traffic is simulated | — |
 | Holly Eye voice commands | World | `PROTOTYPE` | — | Push-to-talk map commands | Internal setting only; paid speech services | — |
 | HollyEarth data inside Holly Eye | World | `FUTURE` | None | — | Holly Eye holds no Riga or graph data | — |
 

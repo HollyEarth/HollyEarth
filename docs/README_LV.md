@@ -2,11 +2,13 @@
 
 # HOLLYEARTH
 
-### VIENA SISTĒMA. DAUDZAS PASAULES.
+### A LIVING UNIVERSE
 
-**Pilsēta · Politika · Sports · Sociālā joma · Izmeklēšana · Analītika · Pieredze**
+**VIENA SISTĒMA. DAUDZAS PASAULES.**
 
-Reālas vietas, publiski ieraksti, avoti, pierādījumi un atklāti jautājumi — kā viena sistēma. Sākam ar Rīgu, Latvijā.
+**Pasaule, ko var izpētīt, izprast un nākotnē arī mainīt.**
+
+No sporta kluba Bolderājā līdz pilsētas lēmumiem, no vienas vietas stāsta līdz planētas datiem. Atklājiet jaunus veidus, kā izzināt apkārtējo pasauli.
 
 `v0.1.0` · izmēģinājuma pētniecības projekts · tikai dokumentācija un mediji · nav atvērtā koda projekts
 
@@ -14,28 +16,27 @@ Reālas vietas, publiski ieraksti, avoti, pierādījumi un atklāti jautājumi �
 
 </div>
 
-**IEPAZĪSTI SAVU PILSĒTU. SEKO AVOTIEM. ATKLĀJ JAUNAS PASAULES.**
 
-No Rīgas ielām līdz visas planētas mērogam — topošs vietu, publisku zināšanu, telpisku pieredžu un atklātu jautājumu visums.
+
+<a href="../media/screenshots/02-riga-twin.png"><img src="../media/screenshots/02-riga-twin.png" alt="HollyEarth — Riga Twin" width="100%"></a>
 
 <sub>Īsts v0.1.0 ekrānuzņēmums. Riga Twin: apkaimju, sporta un sociālo pakalpojumu slāņi fotoreālistiskā Rīgas 3D modelī. „Wellbeing” atzīmes apzīmētas kā DEMO.</sub>
 
 ---
 
-## Viena sistēma. Daudzas pasaules.
+## HollyEarth — Dzīvs visums
 
 ![HollyEarth — THE UNIVERSE](../media/infographics/overview.svg)
 
 *Oriģināla konceptuāla infografika — vizuāla metafora, nevis produkta ekrānuzņēmums.*
 
-**Sāciet ar jautājumu, nevis tabulu.** Kas notiek manā apkaimē? Kas patiesībā rakstīts domes lēmumā? Kur darbojas sporta klubs? HollyEarth pārvērš izkliedētu publisko informāciju vietās, kuras var izpētīt, avotos, kurus var pārbaudīt, un stāstos, kuriem var sekot. Pašlaik tas ir **privāts pētniecības pilotprojekts**, nevis publiski pieejams pašapkalpošanās pakalpojums.
+**Pasaule ir daudz plašāka par analītikas ekrānu.** Iedomājieties: jūs sākat Rīgas ielā, iepazīstat sporta kluba vēsturi, atverat domes lēmuma pirmavotu, nonākat pie pētnieciskas lietas — un tad ieraugāt Zemi planētas mērogā.
 
-HollyEarth ir platforma telpiskai, pilsētvides un izmeklēšanas analītikai, kas veidota darbam ar mākslīgo intelektu. Tā apvieno pilsētu, tās iestādes un organizācijas, politiskos lēmumus, publisko naudu, sociālos pakalpojumus, sportu, dokumentus, avotus un pierādījumus — un ļauj tos pētīt kartē, kā grafu, kā izmeklēšanu vai kā stāstu.
+**HollyEarth — A Living Universe. Dzīvs visums.** Nevis tikai datu krājums vai atsevišķa lietotne, bet augoša vietu, zināšanu, stāstu, pētījumu un interaktīvu pasauļu ekosistēma. Mēs sākam Rīgā, bet domājam **no vienas apkaimes līdz visai planētai**. Mūsu ilgtermiņa mērķis ir palīdzēt cilvēkiem ne vien saprast notiekošo, bet nākotnē arī līdzdarboties pārmaiņās.
 
-**Realitāte → Pierādījumi → Analītika → Pieredze → Rīcība** — tas, ko publicē reģistri, dome, federācijas un arhīvi; tiek glabāts kopā ar avotu, citātu, statusu un trūkstošo informāciju; tiek sasaistīts lietās, analīzē un atklātos jautājumos; tiek piedzīvots kā 3D pilsēta, sporta pilsēta, sociālo pakalpojumu karte, lietu darba telpas un ierunāti stāsti. *„Rīcība” ir `FUTURE`: versijā v0.1.0 sistēma neko neieraksta atpakaļ pasaulē.*
+**Kas pastāv šodien:** privāts pētniecības pilotprojekts ar darbojošām funkcijām, prototipiem un trešo pušu integrācijām. Publiski pieejamas pilnvērtīgas platformas un reālu pilsētas lēmumu maiņas mehānisma vēl nav — tā ir daļa no nākotnes ieceres.
 
-> **Vīzija un šodiena ir nošķirtas.**
-> Mērķis ir viens savienots pilsētas modelis. **Šodien HollyEarth ir viens produkts pār vairākiem savienotiem datu modeļiem, nevis vienots realitātes grafs.** Politikas un sporta ieraksti atrodas vienā kanoniskajā grafā, bet vēl nav savstarpēji saistīti; sociālo pakalpojumu reģistram ir savs modelis; katrai izmeklēšanai ir savs pierādījumu grafs; Riga Twin rāda vairākus no šiem modeļiem vienā kartē. Sīkāk: [ARCHITECTURE.md](../ARCHITECTURE.md).
+**Izvēlieties savu pasauli:** zemāk ir īsti ekrānuzņēmumi, gatavības statusi un detalizētas galerijas.
 
 | Pasaule | Kas tā ir | Statuss | Galerija |
 |---|---|---|---|
@@ -46,6 +47,19 @@ HollyEarth ir platforma telpiskai, pilsētvides un izmeklēšanas analītikai, k
 | **Izmeklēšana** | No dokumentiem veidotas lietas: apgalvojumi, avoti, citāti, nauda pa veidiem, atklāti jautājumi | `WORKING` | [Izmeklēšana](gallery/INVESTIGATION.md) |
 | **Analītika** | Deterministiska analīze, Holly, uzraudzība, valodas modeļa spriedumi — pēc izvēles | `BETA` | [Holly AI](gallery/HOLLY_AI.md) · [Uzraudzība](gallery/MONITORING.md) |
 | **Pieredze** | Stāsts trīs valodās, pases, dosjē; Holly Eye — trešās puses 3D globuss ar dzīviem pasaules datu slāņiem | `WORKING` · Holly Eye `BETA` | [Story](gallery/HOLLY_AI.md#story) · [Holly Eye](gallery/HOLLY_EYE.md) |
+
+<details>
+<summary><b>Kā tas ir veidots · v0.1.0 fakti un ierobežojumi</b></summary>
+
+HollyEarth savieno publiskās zināšanas, interaktīvas pasaules un pārbaudāmus avotus. Tā apvieno pilsētu, tās iestādes un organizācijas, politiskos lēmumus, publisko naudu, sociālos pakalpojumus, sportu, dokumentus, avotus un pierādījumus — un ļauj tos pētīt kartē, kā grafu, kā izmeklēšanu vai kā stāstu.
+
+**Realitāte → Pierādījumi → Analītika → Pieredze → Rīcība** — tas, ko publicē reģistri, dome, federācijas un arhīvi; tiek glabāts kopā ar avotu, citātu, statusu un trūkstošo informāciju; tiek sasaistīts lietās, analīzē un atklātos jautājumos; tiek piedzīvots kā 3D pilsēta, sporta pilsēta, sociālo pakalpojumu karte, lietu darba telpas un ierunāti stāsti. *„Rīcība” ir `FUTURE`: versijā v0.1.0 sistēma neko neieraksta atpakaļ pasaulē.*
+
+> **Vīzija un šodiena ir nošķirtas.**
+> Mērķis ir viens savienots pilsētas modelis. **Šodien HollyEarth ir viens produkts pār vairākiem savienotiem datu modeļiem, nevis vienots realitātes grafs.** Politikas un sporta ieraksti atrodas vienā kanoniskajā grafā, bet vēl nav savstarpēji saistīti; sociālo pakalpojumu reģistram ir savs modelis; katrai izmeklēšanai ir savs pierādījumu grafs; Riga Twin rāda vairākus no šiem modeļiem vienā kartē. Sīkāk: [ARCHITECTURE.md](../ARCHITECTURE.md).
+
+</details>
+
 
 Statusi: `SHOWCASE_READY` · `WORKING` · `BETA` · `PROTOTYPE` · `DEMO` · `RESEARCH` · `FUTURE` — katra funkcija dokumentā **[FEATURE_STATUS.md](FEATURE_STATUS.md)**. Visi produkta ekrāni ar statusiem: **[HollyEarth vizuālais atlants](GALLERY.md)**. Galerijas un detalizētie dokumenti ir angļu valodā.
 

@@ -2,13 +2,15 @@
 
 # HOLLYEARTH
 
-### ONE SYSTEM. MANY WORLDS.
+### A LIVING UNIVERSE
 
-**City · Politics · Sport · Social · Investigation · Intelligence · Experience**
+**ONE SYSTEM. MANY WORLDS.**
 
-**DISCOVER YOUR CITY. FOLLOW THE EVIDENCE. EXPLORE NEW WORLDS.**
+**A world to explore, understand — and one day help change.**
 
-From the streets of Riga to the scale of Earth — a growing universe of places, public knowledge, immersive experiences and open questions.
+
+
+From a sports club in Bolderāja to city decisions, from one place's story to planetary perspectives. Explore the connections between the world we live in and the worlds we can imagine.
 
 `v0.1.0` · pilot / research & development project · documentation and media only · not open source
 
@@ -22,20 +24,19 @@ From the streets of Riga to the scale of Earth — a growing universe of places,
 
 ---
 
-## One System. Many Worlds.
+## A Living Universe
 
 ![HollyEarth — THE UNIVERSE](media/infographics/overview.svg)
 
 *Original concept infographic — a visual metaphor, not a product screenshot.*
 
-**Start with a question, not a dashboard.** What is happening where I live? What does an official decision actually say? Where does a club play? HollyEarth turns scattered public information into places you can explore, sources you can inspect, and stories you can follow. This is a **private R&D pilot**, not yet a public self-service platform.
+**The world is bigger than a dashboard.** What if you could move from a street in Riga to the story behind a local sports club, from an official decision to its source, or from a documented city case to a view of the planet?
 
-HollyEarth is an AI-native platform for spatial, civic and investigative intelligence. It brings together the city, its institutions and organisations, political decisions, public money, social services, sport, documents, sources and evidence — and lets a person explore them on a map, as a graph, as an investigation or as a story.
+**HollyEarth is A Living Universe:** a growing family of places, knowledge, investigations and immersive experiences. Start with Riga. Follow evidence, explore stories, enter new worlds. Our ambition reaches **from one neighbourhood to Earth** — and, in time, from understanding reality to taking part in improving it.
 
-**Reality → Evidence → Intelligence → Experience → Action** — what registers, councils, federations and archives publish; kept with source, quotation, status and gaps; connected into cases, analysis and open questions; experienced as a 3D city, a sport city, a social map, case workspaces and narrated stories. *Action is `FUTURE`: nothing is written back to the world in v0.1.0.*
+**Today:** a private research pilot with working experiences, prototypes, third-party integrations and openly labelled future concepts. It is not yet a publicly hosted, unified platform.
 
-> **Vision and today are kept apart.**
-> The goal is one connected model of a city. **Today HollyEarth is one product over several connected domain models, not yet one unified reality graph.** Politics and sport records live in one canonical graph but are not yet linked to each other; the social-services register has its own model; each investigation case keeps its own evidence graph; the Riga Twin shows several of these models on one map. See [ARCHITECTURE.md](ARCHITECTURE.md).
+**Choose a world to explore:** every world below leads to real screenshots, maturity labels and a deeper gallery.
 
 | World | What it is | Status | Gallery |
 |---|---|---|---|
@@ -46,6 +47,19 @@ HollyEarth is an AI-native platform for spatial, civic and investigative intelli
 | **Investigation** | Cases built from documents: claims, sources, quotations, typed money, open questions | `WORKING` | [Investigation](docs/gallery/INVESTIGATION.md) |
 | **Intelligence** | Deterministic analysis, Holly, monitoring, optional model reasoning | `BETA` | [Holly AI](docs/gallery/HOLLY_AI.md) · [Monitoring](docs/gallery/MONITORING.md) |
 | **Experience** | Story in three languages, passports, dossiers; Holly Eye — a third-party 3D globe with live world layers | `WORKING` · Holly Eye `BETA` | [Story](docs/gallery/HOLLY_AI.md#story) · [Holly Eye](docs/gallery/HOLLY_EYE.md) |
+
+<details>
+<summary><b>Technical foundation, current scope and limitations · v0.1.0</b></summary>
+
+HollyEarth connects public knowledge, interactive worlds and traceable evidence. It brings together the city, its institutions and organisations, political decisions, public money, social services, sport, documents, sources and evidence — and lets a person explore them on a map, as a graph, as an investigation or as a story.
+
+**Reality → Evidence → Intelligence → Experience → Action** — what registers, councils, federations and archives publish; kept with source, quotation, status and gaps; connected into cases, analysis and open questions; experienced as a 3D city, a sport city, a social map, case workspaces and narrated stories. *Action is `FUTURE`: nothing is written back to the world in v0.1.0.*
+
+> **Vision and today are kept apart.**
+> The goal is one connected model of a city. **Today HollyEarth is one product over several connected domain models, not yet one unified reality graph.** Politics and sport records live in one canonical graph but are not yet linked to each other; the social-services register has its own model; each investigation case keeps its own evidence graph; the Riga Twin shows several of these models on one map. See [ARCHITECTURE.md](ARCHITECTURE.md).
+
+</details>
+
 
 Statuses: `SHOWCASE_READY` · `WORKING` · `BETA` · `PROTOTYPE` · `DEMO` · `RESEARCH` · `FUTURE` — every feature in **[docs/FEATURE_STATUS.md](docs/FEATURE_STATUS.md)**. Every screen of the product, labelled: **[HollyEarth Visual Atlas](docs/GALLERY.md)**.
 

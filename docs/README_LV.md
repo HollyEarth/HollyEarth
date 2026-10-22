@@ -377,29 +377,41 @@ Ne katra Story nodaļa vēl ir piesaistīta konkrētiem apgalvojumiem. → [Stor
 
 ---
 
-## HollyWorlds — Unreal Engine eksperimenti
+## HollyWorlds — spēļu pasaules
 
-![HollyWorlds — Unreal Engine](../media/infographics/worlds.svg)
+![HollyWorlds — divas pasaules izstrādē](../media/infographics/worlds.svg)
 
-*Konceptuāla infografika, nevis Unreal Engine ekrānuzņēmums.*
+*Konceptuāla ilustrācija, nevis spēles procesa ekrānuzņēmums.*
 
-### Ko darīt, ja pa šo pasauli varētu izbraukt?
+### Ne tikai skatīties kartē. Ienākt pašā pasaulē.
 
-Iedomājieties Bolderāju ne tikai kartē, bet arī kā nākotnes spēles misijas vidi: tēls pārvietojas pa ielām, pēta vietas un piedalās stāstā.
+Karte parāda, kur atrodas vieta. **Spēles pasaule ļauj to izpētīt citādi — atrodoties tajā.** Mēs attīstām divus atsevišķus prototipus, kuros vietas kļūst par interaktīvu pieredzi.
 
-Divi atsevišķi **Unreal Engine eksperimenti** rāda iespējamo virzienu. **Planetary Sandbox** pēta planētas mēroga vidi ar vadāmu tēlu un transportu. **AGLS / Bolderāja** ir vietējā karte, kurai paredzētas misijas un scenāriji.
+### 🌍 Planētas pasaule — ceļojums plašākā mērogā · `PROTOTYPE`
 
-Pašlaik tie ir **atsevišķi prototipi**. Gatavas Bolderājas misijas vai funkcionējoša sasaiste ar HollyEarth Core **netiek apgalvota**.
+**Iedomājieties: braucat cauri plašai ainavai, izkāpjat no automašīnas un turpināt ceļu kājām.** Atsevišķā prototipā jau ir vadāms tēls un braukšana ar automašīnu. Iepriekšējā īsajā demonstrācijā redzama pārvietošanās ģeogrāfiskā vidē, nevis gatava publiski pieejama planētas mēroga spēle.
 
+**Attīstības virziens:** interaktīvi ceļojumi, atklājumi un stāsti.
 
-<a href="../media/storycards/en/unreal.svg"><img src="../media/storycards/en/unreal.svg" alt="HollyEarth unreal — illustrated story" width="100%"></a>
+### 🏙️ AGLS / Bolderāja — kad spēle sākas pazīstamā apkaimē · `PROTOTYPE`
 
-*Vizuāls stāsts — cilvēka jautājums, trīs soļi un ieguvums. Koncepts, nevis ekrānuzņēmums; uzraksti pagaidām angļu valodā.*
+**Kas būtu, ja spēles stāsts sāktos uz ielas, kuru pazīstat?** AGLS ir atsevišķs prototips ar Bolderājas spēles karti. Pamata vide jau pastāv; misijas, scenāriji un vietējie stāsti vēl ir jāizveido.
+
+**Kāpēc tas ir svarīgi:** nākotnē vēlamies ļaut cilvēkiem ne tikai lasīt par pilsētu, bet arī to izpētīt, spēlēt un iesaistīties.
+
+<a href="../media/storycards/en/unreal.svg"><img src="../media/storycards/en/unreal.svg" alt="HollyWorlds — spēles pasaules koncepcijas ilustrācija" width="100%"></a>
+
+*Oriģināla koncepcijas ilustrācija, nevis kadrs no spēles prototipa. Īstie spēles attēli tiks pievienoti atsevišķi.*
 
 <details>
-<summary><b>🎮 Prototipu faktiskās iespējas un nākamie soļi</b></summary>
+<summary><b>🎮 Kas ir izveidots un kas vēl ir iecerēts</b></summary>
 
-**Ne tikai vērot pasauli — ieiet tajā.** HollyWorlds ir atsevišķs eksperimentāls virziens ārpus v0.1.0 tīmekļa platformas. Vienā Unreal Engine prototipā ir planētas mēroga ģeogrāfiska vide, vadāms tēls, braukšanas un šaušanas mehānikas (pēc autoru sniegtās informācijas). Otrs prototips — **AGLS / Bolderāja** — ir vietējā karte, kurai vēl jāizveido misijas un stāsta scenāriji. Tie ir **atsevišķi prototipi**: misijas Bolderājā un sasaiste ar HollyEarth Core vēl nav pabeigtas.
+| Pasaule | Šodien | Nākamais posms |
+|---|---|---|
+| **Planētas pasaule** | Atsevišķa ģeogrāfiska vide ar vadāmu tēlu un automašīnu, kas parādīta agrākā īsajā demonstrācijā. | Jauna demonstrācija, mijiedarbība ar pasauli un misijas. |
+| **AGLS / Bolderāja** | Atsevišķa vietējās apkaimes spēles karte. | Misijas, scenāriji, stāsti un publiska demonstrācija. |
+
+**Neviens no prototipiem pagaidām nav savienots ar HollyEarth Core v0.1.0.** Mēs neapgalvojam, ka pilsētas dati, izmeklēšana un spēle jau darbojas kā viena gatava sistēma. Iekšējā arhitektūra un pirmkods paliek privāti.
 
 </details>
 

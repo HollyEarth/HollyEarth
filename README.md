@@ -377,29 +377,41 @@ Not every story chapter is linked to individual claims yet. → [Story](docs/gal
 
 ---
 
-## HollyWorlds — Unreal Engine explorations
+## HollyWorlds — playable worlds
 
-![HollyWorlds — Unreal Engine](media/infographics/worlds.svg)
+![HollyWorlds — two worlds in development](media/infographics/worlds.svg)
 
-*Concept infographic — not an Unreal Engine capture.*
+*Concept illustration of a product direction, not gameplay footage.*
 
-### What if you could drive through the world you're exploring?
+### Not just looking at a map. Entering a world.
 
-Imagine Bolderāja not only as a dot on the map but as the setting for a future mission: a character moves through streets, explores places and begins a story.
+A map tells you where a place is. **A playable world lets you experience being there.** HollyWorlds is our exploration of interactive places, journeys and future missions — with two **separate prototypes**, not a single finished game.
 
-Two separate **Unreal Engine experiments** point in that direction. **Planetary Sandbox** explores large-scale geography with a playable character and vehicles. **AGLS / Bolderāja** is a local map intended for missions and scenarios.
+### 🌍 Planetary World — explore on a new scale · `PROTOTYPE`
 
-For now, these are **standalone prototypes**. Completed Bolderāja missions and a working connection to HollyEarth Core are **not claimed**.
+**Imagine crossing a vast landscape, getting out of your car and continuing on foot.** A separate planetary-scale environment already has a controllable character and vehicle movement. The creators have shown a short gameplay recording; it does not yet establish a complete, publicly playable planet.
 
+**What this could become:** an interactive journey through geography, discoveries and stories — far beyond a conventional map.
 
-<a href="media/storycards/en/unreal.svg"><img src="media/storycards/en/unreal.svg" alt="HollyEarth unreal — illustrated story" width="100%"></a>
+### 🏙️ AGLS / Bolderāja — your neighbourhood as a world · `PROTOTYPE`
 
-*Concept story illustration — a human question, three steps and a benefit. Not a product screenshot.*
+**What if a story began on a street you recognise?** AGLS explores Bolderāja as a local interactive environment. The mapped area exists; missions, characters' stories and community scenarios are the next stage, **not completed features**.
+
+**Why these worlds matter:** we want people not only to read about places, but someday to explore, play and participate in stories tied to them.
+
+<a href="media/storycards/en/unreal.svg"><img src="media/storycards/en/unreal.svg" alt="HollyWorlds — illustrated concept of exploring a world" width="100%"></a>
+
+*Original concept story illustration, not an image from either playable prototype. Actual gameplay screenshots will be added separately.*
 
 <details>
-<summary><b>🎮 Confirmed prototype scope and next steps</b></summary>
+<summary><b>🔎 What exists, what is next, and what is separate</b></summary>
 
-**Play the world, not just view it.** HollyWorlds is a separate experimental track beyond the v0.1.0 web platform. One Unreal Engine prototype explores a traversable planetary environment with a playable character, driving and shooting mechanics (reported by the creators). A second prototype, **AGLS / Bolderāja**, focuses on a local map intended for missions and narrative scenarios. These are **standalone prototypes**: missions in Bolderāja and integration with HollyEarth Core are not presented as completed features.
+| World | Today | Next |
+|---|---|---|
+| **Planetary World** | Standalone exploratory environment with a playable character and driving, described by the creators and shown in an earlier short clip. | Captured gameplay showcase, world interactions, missions and fuller exploration. |
+| **AGLS / Bolderāja** | Standalone local-area game map. | Missions, scenarios, storytelling and public demonstrations. |
+
+**Neither prototype is connected to HollyEarth Core in v0.1.0.** These are game experiments, not claims that the city database, investigation system and gameplay already operate as one platform. Implementation details and source code remain private.
 
 </details>
 

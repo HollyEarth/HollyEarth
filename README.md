@@ -83,6 +83,11 @@ You pass a sports ground or a community facility in Riga and wonder: **Who is re
 
 **Why it matters:** residents can orient themselves, researchers can see unanswered questions, and partners can imagine better ways to present city data. The underlying records are **not yet one unified cross-domain graph**.
 
+
+<a href="media/storycards/en/city.svg"><img src="media/storycards/en/city.svg" alt="HollyEarth city — illustrated story" width="100%"></a>
+
+*Concept story illustration — a human question, three steps and a benefit. Not a product screenshot.*
+
 <details>
 <summary><b>🔎 Real Riga Twin data, functions and limitations</b></summary>
 
@@ -117,6 +122,11 @@ A headline says the council has approved a project. **Who voted? Where is the de
 **Political Holly OS makes the public record navigable:** sessions, officials, votes, documents and relationships. Experimental research lenses offer different views of the same records — not automated judgements about people or parties.
 
 **The value is agency:** instead of accepting somebody else's summary, a person can follow available evidence and see where the public record leaves questions unanswered. These views do not establish real-world outcomes or individual integrity.
+
+
+<a href="media/storycards/en/politics.svg"><img src="media/storycards/en/politics.svg" alt="HollyEarth politics — illustrated story" width="100%"></a>
+
+*Concept story illustration — a human question, three steps and a benefit. Not a product screenshot.*
 
 <details>
 <summary><b>🔎 Council coverage, modules and maturity</b></summary>
@@ -162,6 +172,11 @@ A young person joins a club. Seasons pass. An official results sheet preserves a
 
 **Who benefits:** clubs can present their history, event organisers can demonstrate competitions, and curious people can explore their sporting landscape. The game layer, wallet and economy are still **demos, prototypes or future directions**, not live commercial products.
 
+
+<a href="media/storycards/en/sport.svg"><img src="media/storycards/en/sport.svg" alt="HollyEarth sport — illustrated story" width="100%"></a>
+
+*Concept story illustration — a human question, three steps and a benefit. Not a product screenshot.*
+
 <details>
 <summary><b>🔎 Sport data coverage, passports and product maturity</b></summary>
 
@@ -204,6 +219,11 @@ Imagine a family trying to locate a relevant social service. A registry may list
 
 **Honesty is part of the value.** Registered does not mean received, planned capacity is not proof of actual delivery, and unknown payments are not zero. This is a research interface — **not an emergency help service or a live availability checker**.
 
+
+<a href="media/storycards/en/social.svg"><img src="media/storycards/en/social.svg" alt="HollyEarth social — illustrated story" width="100%"></a>
+
+*Concept story illustration — a human question, three steps and a benefit. Not a product screenshot.*
+
 <details>
 <summary><b>🔎 Registry snapshot, grounded counts and limitations</b></summary>
 
@@ -240,6 +260,11 @@ One document describes a **planned budget**, another a **contract value**, anoth
 **HollyEarth follows the evidence before it tells the story.** A case collects source documents, exact quotations, attributed claims, typed money and unanswered questions. Explore not just a conclusion, but **why it might be supported — or why it remains uncertain**.
 
 For researchers and journalists, the value is retaining context and resisting false certainty. Automated support is **not human verification**.
+
+
+<a href="media/storycards/en/investigation.svg"><img src="media/storycards/en/investigation.svg" alt="HollyEarth investigation — illustrated story" width="100%"></a>
+
+*Concept story illustration — a human question, three steps and a benefit. Not a product screenshot.*
 
 <details>
 <summary><b>🔎 Cases, evidence mechanics and known gaps</b></summary>
@@ -279,6 +304,11 @@ For questions about public money, institutions and people, a fluent answer witho
 
 **The aim:** give people better questions, traceable foundations and explicit uncertainty. A universal, fully autonomous Holly agent **does not exist in v0.1.0**.
 
+
+<a href="media/storycards/en/intelligence.svg"><img src="media/storycards/en/intelligence.svg" alt="HollyEarth intelligence — illustrated story" width="100%"></a>
+
+*Concept story illustration — a human question, three steps and a benefit. Not a product screenshot.*
+
 <details>
 <summary><b>🔎 What Holly actually does in v0.1.0</b></summary>
 
@@ -312,6 +342,11 @@ Not everyone wants to read an evidence table. Some people want a story told in c
 **Story** presents cases as a sequence of chapters in Russian, Latvian and English. The Riga Twin adds a spatial viewpoint. **Holly Eye** changes scale to the planet through an explicitly credited **third-party integration**, including satellites, flight activity and other world data layers.
 
 These are different ways to engage with information, connected through navigation — **not yet one seamless reality model**.
+
+
+<a href="media/storycards/en/experience.svg"><img src="media/storycards/en/experience.svg" alt="HollyEarth experience — illustrated story" width="100%"></a>
+
+*Concept story illustration — a human question, three steps and a benefit. Not a product screenshot.*
 
 <details>
 <summary><b>🔎 Stories, voice, Holly Eye and integration limits</b></summary>
@@ -356,6 +391,11 @@ Two separate **Unreal Engine experiments** point in that direction. **Planetary 
 
 For now, these are **standalone prototypes**. Completed Bolderāja missions and a working connection to HollyEarth Core are **not claimed**.
 
+
+<a href="media/storycards/en/unreal.svg"><img src="media/storycards/en/unreal.svg" alt="HollyEarth unreal — illustrated story" width="100%"></a>
+
+*Concept story illustration — a human question, three steps and a benefit. Not a product screenshot.*
+
 <details>
 <summary><b>🎮 Confirmed prototype scope and next steps</b></summary>
 
@@ -378,6 +418,11 @@ A sports club is a personal journey for one person, a community for another, a c
 This inspires our **integral perspective**: **I — lived experience; We — shared meaning; It — observable evidence; Systems — organisations, places and processes**. The idea is to avoid mistaking a single metric for the whole of reality.
 
 **HEIO and HEIM are research directions** exploring how these perspectives might relate. They are not complete working ontologies or tools for scoring people, neighbourhoods or political beliefs.
+
+
+<a href="media/storycards/en/research.svg"><img src="media/storycards/en/research.svg" alt="HollyEarth research — illustrated story" width="100%"></a>
+
+*Concept story illustration — a human question, three steps and a benefit. Not a product screenshot.*
 
 <details>
 <summary><b>🔎 Implemented foundations and HEIO / HEIM research</b></summary>
@@ -413,6 +458,11 @@ That takes both technology and a **sustainable economic model**. We intend to co
 
 Participation workflows, wallets and economic mechanisms remain **future directions**, not services available today.
 
+
+<a href="media/storycards/en/future.svg"><img src="media/storycards/en/future.svg" alt="HollyEarth future — illustrated story" width="100%"></a>
+
+*Concept story illustration — a human question, three steps and a benefit. Not a product screenshot.*
+
 <details>
 <summary><b>🗺️ Roadmap by maturity: working / in development / research / future</b></summary>
 
@@ -439,6 +489,11 @@ HollySport's game layer remains `DEMO` until it is built on real mechanics. → 
 It is easy to describe the future of a complex product. We choose to mark **what actually works**, what is experimental, what is merely illustrated and what is still a research direction.
 
 The overview below is not a dry scorecard: it helps a prospective partner or researcher understand **what can be demonstrated now and what could be built together**.
+
+
+<a href="media/storycards/en/capabilities.svg"><img src="media/storycards/en/capabilities.svg" alt="HollyEarth capabilities — illustrated story" width="100%"></a>
+
+*Concept story illustration — a human question, three steps and a benefit. Not a product screenshot.*
 
 <details>
 <summary><b>🔎 Reading the capability matrix</b></summary>

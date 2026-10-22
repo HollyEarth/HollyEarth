@@ -83,6 +83,11 @@ Ejot gar sporta laukumu vai sabiedrisku iestādi Rīgā, rodas jautājums: **kas
 
 **Kāpēc tas ir svarīgi:** iedzīvotājiem ir vieglāk orientēties informācijā, pētniekiem — formulēt jautājumus, partneriem — iztēloties jaunus pilsētas datu lietojumus. Dati vēl **nav vienots starpnozaru grafs**.
 
+
+<a href="../media/storycards/en/city.svg"><img src="../media/storycards/en/city.svg" alt="HollyEarth city — illustrated story" width="100%"></a>
+
+*Vizuāls stāsts — cilvēka jautājums, trīs soļi un ieguvums. Koncepts, nevis ekrānuzņēmums; uzraksti pagaidām angļu valodā.*
+
 <details>
 <summary><b>🔎 Riga Twin faktiskie dati, funkcijas un ierobežojumi</b></summary>
 
@@ -117,6 +122,11 @@ Ziņās rakstīts, ka dome apstiprinājusi projektu. **Kas balsoja? Kur ir lēmu
 **Political Holly OS ļauj izpētīt publiskos lēmumu ierakstus:** sēdes, deputātus, balsojumus, dokumentus un to sasaistes. Eksperimentālie pētniecības skati ļauj aplūkot tos pašus datus no dažādām pusēm — neizdarot automatizētus spriedumus par cilvēkiem vai partijām.
 
 **Ieguvums:** cilvēks var ne tikai lasīt svešu kopsavilkumu, bet pats izsekot publicētajiem avotiem un pamanīt neatbildētos jautājumus. Tas nepierāda lēmumu faktisko ietekmi vai cilvēku godīgumu.
+
+
+<a href="../media/storycards/en/politics.svg"><img src="../media/storycards/en/politics.svg" alt="HollyEarth politics — illustrated story" width="100%"></a>
+
+*Vizuāls stāsts — cilvēka jautājums, trīs soļi un ieguvums. Koncepts, nevis ekrānuzņēmums; uzraksti pagaidām angļu valodā.*
 
 <details>
 <summary><b>🔎 Domes datu tvērums, moduļi un gatavība</b></summary>
@@ -162,6 +172,11 @@ Jaunietis sāk trenēties klubā. Pēc vairākiem gadiem oficiālajā protokolā
 
 **Kam tas noderētu:** klubiem, lai parādītu savu vēsturi; rīkotājiem, lai demonstrētu sacensības; interesentiem, lai iepazītu sporta vidi. Spēļu slānis, maks un ekonomika vēl ir **demonstrācijas, prototipi vai nākotnes ieceres**, nevis pieejami komercpakalpojumi.
 
+
+<a href="../media/storycards/en/sport.svg"><img src="../media/storycards/en/sport.svg" alt="HollyEarth sport — illustrated story" width="100%"></a>
+
+*Vizuāls stāsts — cilvēka jautājums, trīs soļi un ieguvums. Koncepts, nevis ekrānuzņēmums; uzraksti pagaidām angļu valodā.*
+
 <details>
 <summary><b>🔎 Sporta datu tvērums, profili un gatavība</b></summary>
 
@@ -204,6 +219,11 @@ Iedomājieties ģimeni, kas meklē sociālo pakalpojumu. Reģistrā var būt sni
 
 **Vērtība ir arī godīgumā:** reģistrēts nenozīmē saņemts, plānotā kapacitāte nav faktiski sniegts pakalpojums, un nezināmi maksājumi nav nulle. Šī ir pētniecības vide, **nevis ārkārtas palīdzības vai brīvo vietu pārbaudes pakalpojums**.
 
+
+<a href="../media/storycards/en/social.svg"><img src="../media/storycards/en/social.svg" alt="HollyEarth social — illustrated story" width="100%"></a>
+
+*Vizuāls stāsts — cilvēka jautājums, trīs soļi un ieguvums. Koncepts, nevis ekrānuzņēmums; uzraksti pagaidām angļu valodā.*
+
 <details>
 <summary><b>🔎 Reģistra tvērums, skaitļi un ierobežojumi</b></summary>
 
@@ -240,6 +260,11 @@ Vienā dokumentā minēta **plānotā summa**, citā — **līguma vērtība**, 
 **HollyEarth vispirms seko pierādījumiem.** Lietā vienuviet redzami dokumenti, precīzi citāti, apgalvojumi, atšķirīgi naudas veidi un neatbildēti jautājumi. Var izpētīt ne tikai secinājumu, bet arī **to, uz ko tas balstās un kas vēl nav zināms**.
 
 Pētniekiem un žurnālistiem tas palīdz saglabāt kontekstu. Automatizēts apstiprinājums **nav cilvēka veikta pārbaude**.
+
+
+<a href="../media/storycards/en/investigation.svg"><img src="../media/storycards/en/investigation.svg" alt="HollyEarth investigation — illustrated story" width="100%"></a>
+
+*Vizuāls stāsts — cilvēka jautājums, trīs soļi un ieguvums. Koncepts, nevis ekrānuzņēmums; uzraksti pagaidām angļu valodā.*
 
 <details>
 <summary><b>🔎 Lietu skaits, pierādījumi un ierobežojumi</b></summary>
@@ -279,6 +304,11 @@ Ja runa ir par publisko naudu, institūcijām vai cilvēkiem, raita atbilde bez 
 
 **Mērķis:** labāki jautājumi, izsekojams pamatojums un skaidri norādīta nenoteiktība. Universāls autonoms Holly aģents versijā v0.1.0 **vēl nepastāv**.
 
+
+<a href="../media/storycards/en/intelligence.svg"><img src="../media/storycards/en/intelligence.svg" alt="HollyEarth intelligence — illustrated story" width="100%"></a>
+
+*Vizuāls stāsts — cilvēka jautājums, trīs soļi un ieguvums. Koncepts, nevis ekrānuzņēmums; uzraksti pagaidām angļu valodā.*
+
 <details>
 <summary><b>🔎 Holly reālās iespējas versijā v0.1.0</b></summary>
 
@@ -312,6 +342,11 @@ Ne visi vēlas lasīt tabulas un dokumentus. Dažiem sarežģīta tēma kļūst 
 HollyEarth jau ir **Story**, kas pētnieciskās lietas izstāsta krievu, latviešu un angļu valodā. Ir 3D Rīgas vide, kā arī **Holly Eye** — skats planētas mērogā ar satelītiem, lidojumiem un citiem pasaules datiem, izmantojot skaidri norādītu **trešās puses integrāciju**.
 
 Tās ir vairākas pieredzes ar navigācijas saitēm, **nevis vēl viena pilnībā vienota realitātes sistēma**.
+
+
+<a href="../media/storycards/en/experience.svg"><img src="../media/storycards/en/experience.svg" alt="HollyEarth experience — illustrated story" width="100%"></a>
+
+*Vizuāls stāsts — cilvēka jautājums, trīs soļi un ieguvums. Koncepts, nevis ekrānuzņēmums; uzraksti pagaidām angļu valodā.*
 
 <details>
 <summary><b>🔎 Story, balss, Holly Eye un integrācijas robežas</b></summary>
@@ -356,6 +391,11 @@ Divi atsevišķi **Unreal Engine eksperimenti** rāda iespējamo virzienu. **Pla
 
 Pašlaik tie ir **atsevišķi prototipi**. Gatavas Bolderājas misijas vai funkcionējoša sasaiste ar HollyEarth Core **netiek apgalvota**.
 
+
+<a href="../media/storycards/en/unreal.svg"><img src="../media/storycards/en/unreal.svg" alt="HollyEarth unreal — illustrated story" width="100%"></a>
+
+*Vizuāls stāsts — cilvēka jautājums, trīs soļi un ieguvums. Koncepts, nevis ekrānuzņēmums; uzraksti pagaidām angļu valodā.*
+
 <details>
 <summary><b>🎮 Prototipu faktiskās iespējas un nākamie soļi</b></summary>
 
@@ -378,6 +418,11 @@ Sporta klubs vienam cilvēkam ir personisks ceļš, citam — kopiena; pētnieka
 Mūs iedvesmo **integrālā perspektīva**: **Es — personiskā pieredze; Mēs — kopīgā nozīme; Tas — novērojamie fakti; Sistēmas — institūcijas, vietas un procesi**. Tā palīdz nepārvērst vienu skaitli par visas realitātes mēru.
 
 **HEIO un HEIM ir pētniecības virzieni**, nevis pilnībā īstenotas ontoloģijas vai rīki cilvēku, apkaimju vai politisko uzskatu vērtēšanai.
+
+
+<a href="../media/storycards/en/research.svg"><img src="../media/storycards/en/research.svg" alt="HollyEarth research — illustrated story" width="100%"></a>
+
+*Vizuāls stāsts — cilvēka jautājums, trīs soļi un ieguvums. Koncepts, nevis ekrānuzņēmums; uzraksti pagaidām angļu valodā.*
 
 <details>
 <summary><b>🔎 Īstenotie pamati un HEIO / HEIM pētījumi</b></summary>
@@ -413,6 +458,11 @@ Tam vajadzīga gan tehnoloģija, gan **ilgtspējīgs ekonomiskais modelis**. Mē
 
 Līdzdalības mehānismi, maki un ekonomiskie rīki ir **nākotnes ieceres**, nevis pašlaik pieejami pakalpojumi.
 
+
+<a href="../media/storycards/en/future.svg"><img src="../media/storycards/en/future.svg" alt="HollyEarth future — illustrated story" width="100%"></a>
+
+*Vizuāls stāsts — cilvēka jautājums, trīs soļi un ieguvums. Koncepts, nevis ekrānuzņēmums; uzraksti pagaidām angļu valodā.*
+
 <details>
 <summary><b>🗺️ Ceļvedis pēc statusa: darbojas / izstrādē / pētījumi / nākotne</b></summary>
 
@@ -439,6 +489,11 @@ HollySport spēles slānis paliek `DEMO`, kamēr tas nav balstīts uz reālu meh
 Sarežģītam projektam ir viegli runāt tikai par nākotni. Mēs izvēlamies skaidri nošķirt, **kas jau darbojas**, kas vēl ir prototips un kas ir tikai pētnieciska iecere.
 
 Tālāk redzamā tabula palīdz topošajiem partneriem un pētniekiem saprast, **ko var demonstrēt jau tagad un ko vēl būtu iespējams veidot kopā**.
+
+
+<a href="../media/storycards/en/capabilities.svg"><img src="../media/storycards/en/capabilities.svg" alt="HollyEarth capabilities — illustrated story" width="100%"></a>
+
+*Vizuāls stāsts — cilvēka jautājums, trīs soļi un ieguvums. Koncepts, nevis ekrānuzņēmums; uzraksti pagaidām angļu valodā.*
 
 <details>
 <summary><b>🔎 Kā lasīt iespēju matricu</b></summary>

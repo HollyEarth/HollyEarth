@@ -6,7 +6,9 @@
 
 **City · Politics · Sport · Social · Investigation · Intelligence · Experience**
 
-Real places, public records, sources, evidence and open questions — explored as one system, starting with Riga, Latvia.
+**DISCOVER YOUR CITY. FOLLOW THE EVIDENCE. EXPLORE NEW WORLDS.**
+
+From the streets of Riga to the scale of Earth — a growing universe of places, public knowledge, immersive experiences and open questions.
 
 `v0.1.0` · pilot / research & development project · documentation and media only · not open source
 
@@ -21,6 +23,12 @@ Real places, public records, sources, evidence and open questions — explored a
 ---
 
 ## One System. Many Worlds.
+
+![HollyEarth — THE UNIVERSE](media/infographics/overview.svg)
+
+*Original concept infographic — a visual metaphor, not a product screenshot.*
+
+**Start with a question, not a dashboard.** What is happening where I live? What does an official decision actually say? Where does a club play? HollyEarth turns scattered public information into places you can explore, sources you can inspect, and stories you can follow. This is a **private R&D pilot**, not yet a public self-service platform.
 
 HollyEarth is an AI-native platform for spatial, civic and investigative intelligence. It brings together the city, its institutions and organisations, political decisions, public money, social services, sport, documents, sources and evidence — and lets a person explore them on a map, as a graph, as an investigation or as a story.
 
@@ -45,6 +53,12 @@ Statuses: `SHOWCASE_READY` · `WORKING` · `BETA` · `PROTOTYPE` · `DEMO` · `R
 
 ## City
 
+![HollyEarth — CITY](media/infographics/city.svg)
+
+*Original concept infographic — a visual metaphor, not a product screenshot.*
+
+**Your city is more than a map.** Explore Riga as a place where locations, institutions and public records acquire context. Open the city first; follow the source when something matters.
+
 **Riga Twin** — the shared 3D map: 58 neighbourhoods, 428 council decisions with an address, 14 city-granted sport plots, 177 social-service buildings, district news, a council panel and doors to every other world. `WORKING`; Research mode and the AQAL overlay `PROTOTYPE`; Wellbeing `DEMO`.
 
 <table>
@@ -60,6 +74,12 @@ Not yet: one shared place identity across domains; cases on the map; an answerin
 ---
 
 ## Politics
+
+![HollyEarth — POLITICS](media/infographics/politics.svg)
+
+*Original concept infographic — a visual metaphor, not a product screenshot.*
+
+**A decision has a history.** Move beyond headlines to the official meeting, decision, vote and source record. HollyEarth helps make public institutions legible without treating automated analysis as a political verdict.
 
 **Political Holly OS** — twelve modules over Riga City Council: 175 sessions, 456 decisions, 113 deputies, 7 parties, official 2025 election results, municipal spending and an evidence ledger. Modules range from `WORKING` (Network, Deputies, Parties & Power) through `BETA` to `DEMO` (District Impact, Smart City Lenses) and `RESEARCH` (Integral City).
 
@@ -86,6 +106,12 @@ Data is real and sourced; several modules have known gaps (budget lines not impo
 
 ## Sport
 
+![HollyEarth — SPORT](media/infographics/sport.svg)
+
+*Original concept infographic — a visual metaphor, not a product screenshot.*
+
+**Behind every result is a community.** Clubs, venues, events and athletes become navigable profiles grounded in publicly available archives. The game-like experience is a `DEMO`; organisers' tools are prototypes.
+
 **HollySport** — **18,143 athletes · 227 events · 1,326 bouts · 8,401 placings · 297 clubs and federations · 133 venues** from federation registers, official result books and public archives; no stored results of minors. Passports `WORKING` / `SHOWCASE_READY`; City Game `DEMO`; Event OS and Creator `PROTOTYPE`; MetaSport economy `FUTURE`.
 
 <a href="media/screenshots/07-hollysport-city.png"><img src="media/screenshots/07-hollysport-city.png" alt="HollySport City" width="100%"></a>
@@ -109,6 +135,12 @@ The game and economy layers show where the platform is going; they are not worki
 
 ## Social
 
+![HollyEarth — SOCIAL](media/infographics/social.svg)
+
+*Original concept infographic — a visual metaphor, not a product screenshot.*
+
+**A service on paper is not the same as a service received.** Locate registered providers, inspect their dossiers and see what public records do **not** establish about access, payments or outcomes.
+
 **Social Intelligence** — Riga's social services from the Ministry of Welfare's official register (14 September 2026): **256 services · 106 providers · 177 buildings · 28 delivered at home.** `SHOWCASE_READY`.
 
 <a href="media/screenshots/10-social-stage.png"><img src="media/screenshots/10-social-stage.png" alt="Social Intelligence" width="100%"></a>
@@ -126,6 +158,12 @@ The game and economy layers show where the platform is going; they are not worki
 ---
 
 ## Investigation
+
+![HollyEarth — INVESTIGATION](media/infographics/investigation.svg)
+
+*Original concept infographic — a visual metaphor, not a product screenshot.*
+
+**Don't just read a conclusion. Follow its trail.** Each case brings quotations, source documents, the kind of money mentioned and unresolved questions into a navigable research experience.
 
 A case gathers a council decision, a procurement or an organisation with its sources, exact quotations, claims, typed money, open questions and the route the investigation took. 9 cases in v0.1.0.
 
@@ -146,6 +184,12 @@ A case gathers a council decision, a procurement or an organisation with its sou
 
 ## Intelligence
 
+![HollyEarth — INTELLIGENCE](media/infographics/intelligence.svg)
+
+*Original concept infographic — a visual metaphor, not a product screenshot.*
+
+**AI should help you ask, not pretend to know.** HollyEarth combines traceable records, deterministic analysis and optional model-assisted hypotheses. The assistant is case-scoped in v0.1.0, not a universal autonomous agent.
+
 HollyEarth works without a language model. Holly is deterministic helpers plus a case-scoped assistant; model reasoning is optional and always labelled as hypothesis. Monitoring watches the official sources behind cases — run by hand, no automatic scheduler yet. A global assistant and autonomous agents are not part of v0.1.0.
 
 <table>
@@ -160,6 +204,12 @@ HollyEarth works without a language model. Holly is deterministic helpers plus a
 ---
 
 ## Experience
+
+![HollyEarth — EXPERIENCE](media/infographics/experience.svg)
+
+*Original concept infographic — a visual metaphor, not a product screenshot.*
+
+**Information becomes meaningful when you can experience it.** Move between a city, a documented case and a multilingual story. Holly Eye adds a planetary perspective as a clearly attributed **third-party integration**.
 
 <table>
 <tr>
@@ -183,7 +233,23 @@ Not every story chapter is linked to individual claims yet. → [Story](docs/gal
 
 ---
 
+## HollyWorlds — Unreal Engine explorations
+
+![HollyWorlds — Unreal Engine](media/infographics/worlds.svg)
+
+*Concept infographic — not an Unreal Engine capture.*
+
+**Play the world, not just view it.** HollyWorlds is a separate experimental track beyond the v0.1.0 web platform. One Unreal Engine prototype explores a traversable planetary environment with a playable character, driving and shooting mechanics (reported by the creators). A second prototype, **AGLS / Bolderāja**, focuses on a local map intended for missions and narrative scenarios. These are **standalone prototypes**: missions in Bolderāja and integration with HollyEarth Core are not presented as completed features.
+
+---
+
 ## Research
+
+![HollyEarth — RESEARCH](media/infographics/research.svg)
+
+*Original concept infographic — a visual metaphor, not a product screenshot.*
+
+**Big ideas deserve precise labels.** The implemented foundations are provenance, epistemic status, graph records and spatial views. HEIO, HEIM and integral perspectives are active **research directions**, not fully delivered technologies.
 
 Implemented in v0.1.0: an epistemic model (no unconditional "fact"), provenance on every record, a canonical graph and spatial representation. HEIO and HEIM are internal research documents — **concept architecture, not implemented features**. Integral / AQAL, Spiral Dynamics and Integral City are research influences, never used to rate people, parties or districts.
 
@@ -200,6 +266,12 @@ Implemented in v0.1.0: an epistemic model (no unconditional "fact"), provenance 
 
 ## Future
 
+![HollyEarth — FUTURE](media/infographics/future.svg)
+
+*Original concept infographic — a visual metaphor, not a product screenshot.*
+
+**Open collaboration. Sustainable intelligence.** The intended business model combines a proprietary intelligence core with selectively open-source community tools and independent projects. This repository is **documentation-only**, and no proprietary code is being released.
+
 | Exists today | In development | Research | Future |
 |---|---|---|---|
 | Riga Twin · Cases, evidence, roadmap, Story · HollySport data and passports · Social Intelligence · Politics data and workspace · Monitoring (manual) · RU / LV / EN · Holly Eye door (third-party) | Shared identity across domains · Social in the main graph · money semantics (planned → contracted → awarded → paid) · scheduled monitoring · human review · claim-linked story chapters · hosted pilot · Event OS, Creator and partnerships (prototypes) | HEIO · HEIM · Integral / AQAL · Spiral Dynamics (context only) · Integral City | Governed action and appeals · HollyWorlds · MetaSport economy · public hosted instance · more cities |
@@ -209,6 +281,12 @@ HollySport's game layer remains `DEMO` until it is built on real mechanics. → 
 ---
 
 ## Current Capabilities
+
+![HollyEarth — CAPABILITIES](media/infographics/capabilities.svg)
+
+*Original concept infographic — a visual metaphor, not a product screenshot.*
+
+**You can see both the promise and the proof.** The detailed matrix below separates working experiences from beta, demo, research and future directions. A concept is not presented as a finished feature.
 
 | Area | Showcase-ready | Working | Beta / prototype | Demo / research / future |
 |---|---|---|---|---|
@@ -238,6 +316,9 @@ Copyright © 2026 Lab Da Riga. All rights reserved.
 This repository contains documentation and media only. It is **not open source** and contains no source code — see [LICENSE.md](LICENSE.md) and [NOTICE.md](NOTICE.md). Third-party maps, data and components remain under their owners' terms.
 
 ## Contact / Follow the Project
+
+**Our promise:** show what is built, label what is experimental, and invite partners to help shape what comes next.
+
 
 - **Follow** — watch this repository and the [HollyEarth organisation](https://github.com/HollyEarth) for releases and documentation updates.
 - **Videos** — founder videos (why we built HollyEarth, what it does today, where it goes next) are in production.

@@ -2,11 +2,13 @@
 
 # HOLLYEARTH
 
-### VIENA SISTĒMA. DAUDZAS PASAULES.
+### A LIVING UNIVERSE
 
-**Pilsēta · Politika · Sports · Sociālā joma · Izmeklēšana · Analītika · Pieredze**
+**VIENA SISTĒMA. DAUDZAS PASAULES.**
 
-Reālas vietas, publiski ieraksti, avoti, pierādījumi un atklāti jautājumi — kā viena sistēma. Sākam ar Rīgu, Latvijā.
+**Pasaule, ko var izpētīt, izprast un nākotnē arī mainīt.**
+
+No sporta kluba Bolderājā līdz pilsētas lēmumiem, no vienas vietas stāsta līdz planētas datiem. Atklājiet jaunus veidus, kā izzināt apkārtējo pasauli.
 
 `v0.1.0` · izmēģinājuma pētniecības projekts · tikai dokumentācija un mediji · nav atvērtā koda projekts
 
@@ -14,20 +16,31 @@ Reālas vietas, publiski ieraksti, avoti, pierādījumi un atklāti jautājumi �
 
 </div>
 
+
+
 <a href="../media/screenshots/02-riga-twin.png"><img src="../media/screenshots/02-riga-twin.png" alt="HollyEarth — Riga Twin" width="100%"></a>
 
 <sub>Īsts v0.1.0 ekrānuzņēmums. Riga Twin: apkaimju, sporta un sociālo pakalpojumu slāņi fotoreālistiskā Rīgas 3D modelī. „Wellbeing” atzīmes apzīmētas kā DEMO.</sub>
 
 ---
 
-## Viena sistēma. Daudzas pasaules.
+## HollyEarth — Dzīvs visums
 
-HollyEarth ir platforma telpiskai, pilsētvides un izmeklēšanas analītikai, kas veidota darbam ar mākslīgo intelektu. Tā apvieno pilsētu, tās iestādes un organizācijas, politiskos lēmumus, publisko naudu, sociālos pakalpojumus, sportu, dokumentus, avotus un pierādījumus — un ļauj tos pētīt kartē, kā grafu, kā izmeklēšanu vai kā stāstu.
+![HollyEarth — THE UNIVERSE](../media/infographics/overview.svg)
 
-**Realitāte → Pierādījumi → Analītika → Pieredze → Rīcība** — tas, ko publicē reģistri, dome, federācijas un arhīvi; tiek glabāts kopā ar avotu, citātu, statusu un trūkstošo informāciju; tiek sasaistīts lietās, analīzē un atklātos jautājumos; tiek piedzīvots kā 3D pilsēta, sporta pilsēta, sociālo pakalpojumu karte, lietu darba telpas un ierunāti stāsti. *„Rīcība” ir `FUTURE`: versijā v0.1.0 sistēma neko neieraksta atpakaļ pasaulē.*
+*Oriģināla konceptuāla infografika — vizuāla metafora, nevis produkta ekrānuzņēmums.*
 
-> **Vīzija un šodiena ir nošķirtas.**
-> Mērķis ir viens savienots pilsētas modelis. **Šodien HollyEarth ir viens produkts pār vairākiem savienotiem datu modeļiem, nevis vienots realitātes grafs.** Politikas un sporta ieraksti atrodas vienā kanoniskajā grafā, bet vēl nav savstarpēji saistīti; sociālo pakalpojumu reģistram ir savs modelis; katrai izmeklēšanai ir savs pierādījumu grafs; Riga Twin rāda vairākus no šiem modeļiem vienā kartē. Sīkāk: [ARCHITECTURE.md](../ARCHITECTURE.md).
+**Pasaule ir daudz plašāka par analītikas ekrānu.** Iedomājieties: jūs sākat Rīgas ielā, iepazīstat sporta kluba vēsturi, atverat domes lēmuma pirmavotu, nonākat pie pētnieciskas lietas — un tad ieraugāt Zemi planētas mērogā.
+
+**HollyEarth — A Living Universe. Dzīvs visums.** Nevis tikai datu krājums vai atsevišķa lietotne, bet augoša vietu, zināšanu, stāstu, pētījumu un interaktīvu pasauļu ekosistēma. Mēs sākam Rīgā, bet domājam **no vienas apkaimes līdz visai planētai**. Mūsu ilgtermiņa mērķis ir palīdzēt cilvēkiem ne vien saprast notiekošo, bet nākotnē arī līdzdarboties pārmaiņās.
+
+**Kas pastāv šodien:** privāts pētniecības pilotprojekts ar darbojošām funkcijām, prototipiem un trešo pušu integrācijām. Publiski pieejamas pilnvērtīgas platformas un reālu pilsētas lēmumu maiņas mehānisma vēl nav — tā ir daļa no nākotnes ieceres.
+
+**Integrālā perspektīva palīdz nepazaudēt cilvēku aiz skaitļiem.** Katrai vietai ir vairākas puses: **Es** — personiskā pieredze; **Mēs** — attiecības un kopiena; **Pierādījumi** — novērojamie un avotos pārbaudāmie fakti; **Sistēmas** — iestādes, infrastruktūra, noteikumi un resursi. Tā ir pieeja domāšanai un projektēšanai, **nevis apgalvojums, ka v0.1.0 automātiski analizē visas četras perspektīvas**.
+
+**Viena vieta, vairākas pasaules:** sporta klubu Bolderājā var aplūkot kartē, izpētīt arhīvu rezultātos un publiskajos ierakstos; nākotnē apkaime varētu kļūt arī par spēles stāsta vidi. Pašlaik tie ir **atsevišķi moduļi un prototipi**, nevis pilnībā savienots ceļš.
+
+**Izvēlieties savu pasauli:** zemāk ir īsti ekrānuzņēmumi, gatavības statusi un detalizētas galerijas.
 
 | Pasaule | Kas tā ir | Statuss | Galerija |
 |---|---|---|---|
@@ -39,13 +52,50 @@ HollyEarth ir platforma telpiskai, pilsētvides un izmeklēšanas analītikai, k
 | **Analītika** | Deterministiska analīze, Holly, uzraudzība, valodas modeļa spriedumi — pēc izvēles | `BETA` | [Holly AI](gallery/HOLLY_AI.md) · [Uzraudzība](gallery/MONITORING.md) |
 | **Pieredze** | Stāsts trīs valodās, pases, dosjē; Holly Eye — trešās puses 3D globuss ar dzīviem pasaules datu slāņiem | `WORKING` · Holly Eye `BETA` | [Story](gallery/HOLLY_AI.md#story) · [Holly Eye](gallery/HOLLY_EYE.md) |
 
+<details>
+<summary><b>Kā tas ir veidots · v0.1.0 fakti un ierobežojumi</b></summary>
+
+HollyEarth savieno publiskās zināšanas, interaktīvas pasaules un pārbaudāmus avotus. Tā apvieno pilsētu, tās iestādes un organizācijas, politiskos lēmumus, publisko naudu, sociālos pakalpojumus, sportu, dokumentus, avotus un pierādījumus — un ļauj tos pētīt kartē, kā grafu, kā izmeklēšanu vai kā stāstu.
+
+**Realitāte → Pierādījumi → Analītika → Pieredze → Rīcība** — tas, ko publicē reģistri, dome, federācijas un arhīvi; tiek glabāts kopā ar avotu, citātu, statusu un trūkstošo informāciju; tiek sasaistīts lietās, analīzē un atklātos jautājumos; tiek piedzīvots kā 3D pilsēta, sporta pilsēta, sociālo pakalpojumu karte, lietu darba telpas un ierunāti stāsti. *„Rīcība” ir `FUTURE`: versijā v0.1.0 sistēma neko neieraksta atpakaļ pasaulē.*
+
+> **Vīzija un šodiena ir nošķirtas.**
+> Mērķis ir viens savienots pilsētas modelis. **Šodien HollyEarth ir viens produkts pār vairākiem savienotiem datu modeļiem, nevis vienots realitātes grafs.** Politikas un sporta ieraksti atrodas vienā kanoniskajā grafā, bet vēl nav savstarpēji saistīti; sociālo pakalpojumu reģistram ir savs modelis; katrai izmeklēšanai ir savs pierādījumu grafs; Riga Twin rāda vairākus no šiem modeļiem vienā kartē. Sīkāk: [ARCHITECTURE.md](../ARCHITECTURE.md).
+
+</details>
+
+
 Statusi: `SHOWCASE_READY` · `WORKING` · `BETA` · `PROTOTYPE` · `DEMO` · `RESEARCH` · `FUTURE` — katra funkcija dokumentā **[FEATURE_STATUS.md](FEATURE_STATUS.md)**. Visi produkta ekrāni ar statusiem: **[HollyEarth vizuālais atlants](GALLERY.md)**. Galerijas un detalizētie dokumenti ir angļu valodā.
 
 ---
 
 ## Pilsēta
 
+![HollyEarth — CITY](../media/infographics/city.svg)
+
+*Oriģināla konceptuāla infografika — vizuāla metafora, nevis produkta ekrānuzņēmums.*
+
+### Ja jūsu apkaime varētu pastāstīt savu stāstu
+
+Ejot gar sporta laukumu vai sabiedrisku iestādi Rīgā, rodas jautājums: **kas par šo vietu atbild, un kuros dokumentos tā pieminēta?** Atbilde parasti ir izkaisīta vairākās tīmekļvietnēs un reģistros.
+
+**Riga Twin pārvērš pilsētu par izpētes sākumpunktu.** 3D vidē iespējams aplūkot apkaimes, domes ierakstus, sporta vietas un reģistrētu sociālo pakalpojumu ēkas, atverot konteksta paneļus un avotus. Tā ir iespēja **ieraudzīt pazīstamu vietu citā kontekstā**.
+
+**Kāpēc tas ir svarīgi:** iedzīvotājiem ir vieglāk orientēties informācijā, pētniekiem — formulēt jautājumus, partneriem — iztēloties jaunus pilsētas datu lietojumus. Dati vēl **nav vienots starpnozaru grafs**.
+
+
+<a href="../media/storycards/en/city.svg"><img src="../media/storycards/en/city.svg" alt="HollyEarth city — illustrated story" width="100%"></a>
+
+*Vizuāls stāsts — cilvēka jautājums, trīs soļi un ieguvums. Koncepts, nevis ekrānuzņēmums; uzraksti pagaidām angļu valodā.*
+
+<details>
+<summary><b>🔎 Riga Twin faktiskie dati, funkcijas un ierobežojumi</b></summary>
+
+**Pilsēta ir vairāk nekā karte.** Rīga kļūst par telpu, kurā vietas, iestādes un publiskie ieraksti iegūst kontekstu. Sāciet ar pilsētu un, kad rodas jautājums, atveriet pirmavotu.
+
 **Riga Twin** — kopējā 3D karte: 58 apkaimes, 428 domes lēmumi ar adresi, 14 pilsētas piešķirtas sporta teritorijas, 177 sociālo pakalpojumu ēkas, apkaimju ziņas, domes panelis un pārejas uz visām pārējām pasaulēm. `WORKING`; pētniecības režīms un AQAL slānis — `PROTOTYPE`; Wellbeing — `DEMO`.
+
+</details>
 
 <table>
 <tr>
@@ -61,7 +111,31 @@ Vēl nav: kopējas vietu identitātes starp jomām; lietu kartē; pētniecības 
 
 ## Politika
 
+![HollyEarth — POLITICS](../media/infographics/politics.svg)
+
+*Oriģināla konceptuāla infografika — vizuāla metafora, nevis produkta ekrānuzņēmums.*
+
+### Aiz katra lēmuma ir cilvēki, dokumenti un sekas
+
+Ziņās rakstīts, ka dome apstiprinājusi projektu. **Kas balsoja? Kur ir lēmums? Ko tieši norāda oficiālais avots?** Lai saprastu, bieži jāmeklē vairākās atsevišķās sistēmās.
+
+**Political Holly OS ļauj izpētīt publiskos lēmumu ierakstus:** sēdes, deputātus, balsojumus, dokumentus un to sasaistes. Eksperimentālie pētniecības skati ļauj aplūkot tos pašus datus no dažādām pusēm — neizdarot automatizētus spriedumus par cilvēkiem vai partijām.
+
+**Ieguvums:** cilvēks var ne tikai lasīt svešu kopsavilkumu, bet pats izsekot publicētajiem avotiem un pamanīt neatbildētos jautājumus. Tas nepierāda lēmumu faktisko ietekmi vai cilvēku godīgumu.
+
+
+<a href="../media/storycards/en/politics.svg"><img src="../media/storycards/en/politics.svg" alt="HollyEarth politics — illustrated story" width="100%"></a>
+
+*Vizuāls stāsts — cilvēka jautājums, trīs soļi un ieguvums. Koncepts, nevis ekrānuzņēmums; uzraksti pagaidām angļu valodā.*
+
+<details>
+<summary><b>🔎 Domes datu tvērums, moduļi un gatavība</b></summary>
+
+**Katram lēmumam ir sava vēsture.** No virsraksta līdz oficiālai sēdei, lēmumam, balsojumam un dokumentam. Automātiska analīze netiek pasniegta kā politisks spriedums.
+
 **Political Holly OS** — divpadsmit moduļi pār Rīgas domes datiem: 175 sēdes, 456 lēmumi, 113 deputāti, 7 partijas, 2025. gada vēlēšanu oficiālie rezultāti, pašvaldības izdevumi un pierādījumu reģistrs. Moduļi ir no `WORKING` (Network, Deputies, Parties & Power) caur `BETA` līdz `DEMO` (District Impact, Smart City Lenses) un `RESEARCH` (Integral City).
+
+</details>
 
 <a href="../media/gallery/politics/01-political-os.webp"><img src="../media/gallery/politics/01-political-os.webp" alt="Political Holly OS" width="100%"></a>
 
@@ -86,7 +160,31 @@ Dati ir īsti un ar avotiem; vairākiem moduļiem ir zināmi trūkumi (budžeta 
 
 ## Sports
 
+![HollyEarth — SPORT](../media/infographics/sport.svg)
+
+*Oriģināla konceptuāla infografika — vizuāla metafora, nevis produkta ekrānuzņēmums.*
+
+### Aiz vienas rindas sacensību protokolā ir vesela kopiena
+
+Jaunietis sāk trenēties klubā. Pēc vairākiem gadiem oficiālajā protokolā paliek rezultāts, bet kluba, sacensību un sporta kopienas vēsture ir izkaisīta pa arhīviem.
+
+**HollySport palīdz šo pasauli izpētīt.** Publiski dokumentētie klubi, sacensības, vietas un rezultāti kļūst par profiliem, karti un savstarpējām saitēm — ne tikai tabulas rindām.
+
+**Kam tas noderētu:** klubiem, lai parādītu savu vēsturi; rīkotājiem, lai demonstrētu sacensības; interesentiem, lai iepazītu sporta vidi. Spēļu slānis, maks un ekonomika vēl ir **demonstrācijas, prototipi vai nākotnes ieceres**, nevis pieejami komercpakalpojumi.
+
+
+<a href="../media/storycards/en/sport.svg"><img src="../media/storycards/en/sport.svg" alt="HollyEarth sport — illustrated story" width="100%"></a>
+
+*Vizuāls stāsts — cilvēka jautājums, trīs soļi un ieguvums. Koncepts, nevis ekrānuzņēmums; uzraksti pagaidām angļu valodā.*
+
+<details>
+<summary><b>🔎 Sporta datu tvērums, profili un gatavība</b></summary>
+
+**Aiz katra rezultāta ir cilvēki un kopiena.** Klubi, norises vietas, sacensības un sportisti kļūst par savstarpēji saistītiem profiliem, kuru pamatā ir publiski arhīvi. Spēles slānis ir `DEMO`, organizatoru rīki vēl ir prototipi.
+
 **HollySport** — **18 143 sportisti · 227 pasākumi · 1 326 cīņas · 8 401 vieta protokolos · 297 klubi un federācijas · 133 norises vietas** pēc federāciju reģistru, oficiālo protokolu un publisko arhīvu datiem; nepilngadīgo rezultāti netiek glabāti. Pases — `WORKING` / `SHOWCASE_READY`; City Game — `DEMO`; Event OS un Creator — `PROTOTYPE`; MetaSport ekonomika — `FUTURE`.
+
+</details>
 
 <a href="../media/screenshots/07-hollysport-city.png"><img src="../media/screenshots/07-hollysport-city.png" alt="HollySport City" width="100%"></a>
 
@@ -109,7 +207,31 @@ Spēles un ekonomikas slāņi rāda, kurp attīstās platforma; tie nav strādā
 
 ## Sociālā joma
 
+![HollyEarth — SOCIAL](../media/infographics/social.svg)
+
+*Oriģināla konceptuāla infografika — vizuāla metafora, nevis produkta ekrānuzņēmums.*
+
+### Palīdzības meklēšanai nepietiek ar adrešu sarakstu
+
+Iedomājieties ģimeni, kas meklē sociālo pakalpojumu. Reģistrā var būt sniedzēja nosaukums, bet **vai pakalpojums konkrētajam cilvēkam šeit un tagad ir pieejams?** Publiskie dati to bieži neatklāj.
+
+**Social Intelligence attēlo reģistrētos pakalpojumus saprotamā pilsētas vidē.** Var apskatīt sniedzējus, adreses, dokumentus un dosjē, redzot gan zināmos faktus, gan **informācijas trūkumus**.
+
+**Vērtība ir arī godīgumā:** reģistrēts nenozīmē saņemts, plānotā kapacitāte nav faktiski sniegts pakalpojums, un nezināmi maksājumi nav nulle. Šī ir pētniecības vide, **nevis ārkārtas palīdzības vai brīvo vietu pārbaudes pakalpojums**.
+
+
+<a href="../media/storycards/en/social.svg"><img src="../media/storycards/en/social.svg" alt="HollyEarth social — illustrated story" width="100%"></a>
+
+*Vizuāls stāsts — cilvēka jautājums, trīs soļi un ieguvums. Koncepts, nevis ekrānuzņēmums; uzraksti pagaidām angļu valodā.*
+
+<details>
+<summary><b>🔎 Reģistra tvērums, skaitļi un ierobežojumi</b></summary>
+
+**Reģistrēts pakalpojums vēl nenozīmē saņemtu pakalpojumu.** Izpētiet reģistrētos sniedzējus, to dosjē un to, ko publiskie dati pagaidām neatklāj par pieejamību, maksājumiem un rezultātiem.
+
 **Social Intelligence** — Rīgas sociālie pakalpojumi pēc Labklājības ministrijas oficiālā reģistra (dati uz 2026. gada 14. septembri): **256 pakalpojumi · 106 sniedzēji · 177 ēkas · 28 pakalpojumi dzīvesvietā.** `SHOWCASE_READY`.
+
+</details>
 
 <a href="../media/screenshots/10-social-stage.png"><img src="../media/screenshots/10-social-stage.png" alt="Social Intelligence" width="100%"></a>
 
@@ -127,7 +249,31 @@ Spēles un ekonomikas slāņi rāda, kurp attīstās platforma; tie nav strādā
 
 ## Izmeklēšana
 
+![HollyEarth — INVESTIGATION](../media/infographics/investigation.svg)
+
+*Oriģināla konceptuāla infografika — vizuāla metafora, nevis produkta ekrānuzņēmums.*
+
+### Miljons eiro dažādos dokumentos var nozīmēt dažādas lietas
+
+Vienā dokumentā minēta **plānotā summa**, citā — **līguma vērtība**, vēl citā — **piešķīrums**. Ja tos vienkārši saskaita, var iegūt iespaidīgu, bet maldinošu skaitli.
+
+**HollyEarth vispirms seko pierādījumiem.** Lietā vienuviet redzami dokumenti, precīzi citāti, apgalvojumi, atšķirīgi naudas veidi un neatbildēti jautājumi. Var izpētīt ne tikai secinājumu, bet arī **to, uz ko tas balstās un kas vēl nav zināms**.
+
+Pētniekiem un žurnālistiem tas palīdz saglabāt kontekstu. Automatizēts apstiprinājums **nav cilvēka veikta pārbaude**.
+
+
+<a href="../media/storycards/en/investigation.svg"><img src="../media/storycards/en/investigation.svg" alt="HollyEarth investigation — illustrated story" width="100%"></a>
+
+*Vizuāls stāsts — cilvēka jautājums, trīs soļi un ieguvums. Koncepts, nevis ekrānuzņēmums; uzraksti pagaidām angļu valodā.*
+
+<details>
+<summary><b>🔎 Lietu skaits, pierādījumi un ierobežojumi</b></summary>
+
+**Ne tikai secinājums — arī ceļš līdz tam.** Lieta apvieno citātus, dokumentus, dažādu veidu summas un atklātus jautājumus pārskatāmā pētniecības pieredzē.
+
 Lieta apvieno domes lēmumu, iepirkumu vai organizāciju ar tās avotiem, precīziem citātiem, apgalvojumiem, naudu pa veidiem, atklātiem jautājumiem un izmeklēšanas gaitu. Versijā v0.1.0 ir 9 lietas.
+
+</details>
 
 <a href="../media/screenshots/03-case-overview.png"><img src="../media/screenshots/03-case-overview.png" alt="Lietas pārskats" width="100%"></a>
 
@@ -146,7 +292,31 @@ Lieta apvieno domes lēmumu, iepirkumu vai organizāciju ar tās avotiem, precī
 
 ## Analītika
 
+![HollyEarth — INTELLIGENCE](../media/infographics/intelligence.svg)
+
+*Oriģināla konceptuāla infografika — vizuāla metafora, nevis produkta ekrānuzņēmums.*
+
+### MI atbilde var skanēt pārliecinoši. Bet vai to var pārbaudīt?
+
+Ja runa ir par publisko naudu, institūcijām vai cilvēkiem, raita atbilde bez avota nav priekšrocība.
+
+**Holly palīdz pētīt, nevis izliekas par viszinošu.** Esošajās lietās tiek izmantoti saglabātie ieraksti un deterministiska analīze; modeļa spriedumi var piedāvāt hipotēzes, bet tās neuzskata par pierādītiem faktiem. Avotu uzraudzība pastāv, taču pārbaudes vēl jāpalaiž manuāli.
+
+**Mērķis:** labāki jautājumi, izsekojams pamatojums un skaidri norādīta nenoteiktība. Universāls autonoms Holly aģents versijā v0.1.0 **vēl nepastāv**.
+
+
+<a href="../media/storycards/en/intelligence.svg"><img src="../media/storycards/en/intelligence.svg" alt="HollyEarth intelligence — illustrated story" width="100%"></a>
+
+*Vizuāls stāsts — cilvēka jautājums, trīs soļi un ieguvums. Koncepts, nevis ekrānuzņēmums; uzraksti pagaidām angļu valodā.*
+
+<details>
+<summary><b>🔎 Holly reālās iespējas versijā v0.1.0</b></summary>
+
+**MI jāpalīdz uzdot labākus jautājumus, nevis jārada viszinības iespaids.** HollyEarth apvieno izsekojamus ierakstus, deterministisku analīzi un izvēles modeļu hipotēzes. Versijā v0.1.0 Holly darbojas konkrētas lietas ietvaros, nevis kā universāls autonoms aģents.
+
 HollyEarth darbojas bez valodas modeļa. Holly ir deterministiski palīgi un asistents lietas ietvaros; modeļa spriedumi ir pēc izvēles un vienmēr apzīmēti kā hipotēzes. Uzraudzība seko oficiālajiem lietu avotiem — pārbaudes tiek palaistas manuāli, automātiska grafika vēl nav. Globāla asistenta un autonomu aģentu versijā v0.1.0 nav.
+
+</details>
 
 <table>
 <tr>
@@ -160,6 +330,30 @@ HollyEarth darbojas bez valodas modeļa. Holly ir deterministiski palīgi un asi
 ---
 
 ## Pieredze
+
+![HollyEarth — EXPERIENCE](../media/infographics/experience.svg)
+
+*Oriģināla konceptuāla infografika — vizuāla metafora, nevis produkta ekrānuzņēmums.*
+
+### Informāciju var ne tikai izlasīt — to var arī piedzīvot
+
+Ne visi vēlas lasīt tabulas un dokumentus. Dažiem sarežģīta tēma kļūst saprotama kā **stāsts nodaļās**, citiem — kā vieta kartē.
+
+HollyEarth jau ir **Story**, kas pētnieciskās lietas izstāsta krievu, latviešu un angļu valodā. Ir 3D Rīgas vide, kā arī **Holly Eye** — skats planētas mērogā ar satelītiem, lidojumiem un citiem pasaules datiem, izmantojot skaidri norādītu **trešās puses integrāciju**.
+
+Tās ir vairākas pieredzes ar navigācijas saitēm, **nevis vēl viena pilnībā vienota realitātes sistēma**.
+
+
+<a href="../media/storycards/en/experience.svg"><img src="../media/storycards/en/experience.svg" alt="HollyEarth experience — illustrated story" width="100%"></a>
+
+*Vizuāls stāsts — cilvēka jautājums, trīs soļi un ieguvums. Koncepts, nevis ekrānuzņēmums; uzraksti pagaidām angļu valodā.*
+
+<details>
+<summary><b>🔎 Story, balss, Holly Eye un integrācijas robežas</b></summary>
+
+**Informācija iegūst jēgu, kad to var piedzīvot.** Pārejiet no pilsētas uz dokumentētu lietu un stāstu trīs valodās. Holly Eye piedāvā planētas mērogu kā skaidri norādīta **trešās puses integrācija**.
+
+</details>
 
 <table>
 <tr>
@@ -183,9 +377,61 @@ Ne katra Story nodaļa vēl ir piesaistīta konkrētiem apgalvojumiem. → [Stor
 
 ---
 
+## HollyWorlds — Unreal Engine eksperimenti
+
+![HollyWorlds — Unreal Engine](../media/infographics/worlds.svg)
+
+*Konceptuāla infografika, nevis Unreal Engine ekrānuzņēmums.*
+
+### Ko darīt, ja pa šo pasauli varētu izbraukt?
+
+Iedomājieties Bolderāju ne tikai kartē, bet arī kā nākotnes spēles misijas vidi: tēls pārvietojas pa ielām, pēta vietas un piedalās stāstā.
+
+Divi atsevišķi **Unreal Engine eksperimenti** rāda iespējamo virzienu. **Planetary Sandbox** pēta planētas mēroga vidi ar vadāmu tēlu un transportu. **AGLS / Bolderāja** ir vietējā karte, kurai paredzētas misijas un scenāriji.
+
+Pašlaik tie ir **atsevišķi prototipi**. Gatavas Bolderājas misijas vai funkcionējoša sasaiste ar HollyEarth Core **netiek apgalvota**.
+
+
+<a href="../media/storycards/en/unreal.svg"><img src="../media/storycards/en/unreal.svg" alt="HollyEarth unreal — illustrated story" width="100%"></a>
+
+*Vizuāls stāsts — cilvēka jautājums, trīs soļi un ieguvums. Koncepts, nevis ekrānuzņēmums; uzraksti pagaidām angļu valodā.*
+
+<details>
+<summary><b>🎮 Prototipu faktiskās iespējas un nākamie soļi</b></summary>
+
+**Ne tikai vērot pasauli — ieiet tajā.** HollyWorlds ir atsevišķs eksperimentāls virziens ārpus v0.1.0 tīmekļa platformas. Vienā Unreal Engine prototipā ir planētas mēroga ģeogrāfiska vide, vadāms tēls, braukšanas un šaušanas mehānikas (pēc autoru sniegtās informācijas). Otrs prototips — **AGLS / Bolderāja** — ir vietējā karte, kurai vēl jāizveido misijas un stāsta scenāriji. Tie ir **atsevišķi prototipi**: misijas Bolderājā un sasaiste ar HollyEarth Core vēl nav pabeigtas.
+
+</details>
+
+---
+
 ## Pētījumi
 
+![HollyEarth — RESEARCH](../media/infographics/research.svg)
+
+*Oriģināla konceptuāla infografika — vizuāla metafora, nevis produkta ekrānuzņēmums.*
+
+### Pilsētu nevar saprast tikai no viena skatpunkta
+
+Sporta klubs vienam cilvēkam ir personisks ceļš, citam — kopiena; pētniekam tie ir rezultāti un dokumenti, pilsētai — infrastruktūra un noteikumi.
+
+Mūs iedvesmo **integrālā perspektīva**: **Es — personiskā pieredze; Mēs — kopīgā nozīme; Tas — novērojamie fakti; Sistēmas — institūcijas, vietas un procesi**. Tā palīdz nepārvērst vienu skaitli par visas realitātes mēru.
+
+**HEIO un HEIM ir pētniecības virzieni**, nevis pilnībā īstenotas ontoloģijas vai rīki cilvēku, apkaimju vai politisko uzskatu vērtēšanai.
+
+
+<a href="../media/storycards/en/research.svg"><img src="../media/storycards/en/research.svg" alt="HollyEarth research — illustrated story" width="100%"></a>
+
+*Vizuāls stāsts — cilvēka jautājums, trīs soļi un ieguvums. Koncepts, nevis ekrānuzņēmums; uzraksti pagaidām angļu valodā.*
+
+<details>
+<summary><b>🔎 Īstenotie pamati un HEIO / HEIM pētījumi</b></summary>
+
+**Lielām idejām vajadzīgas precīzas atzīmes.** Jau īstenota ierakstu izcelsmes izsekojamība, epistemiskie statusi, grafa ieraksti un telpiskie skati. HEIO, HEIM un integrālās pieejas ir **pētniecības virzieni**, nevis pilnībā gatavas tehnoloģijas.
+
 Ieviests versijā v0.1.0: epistēmiskais modelis (nav beznosacījuma „fakta”), izcelsme katram ierakstam, kanoniskais grafs un telpiskais attēlojums. HEIO un HEIM ir iekšēji pētniecības dokumenti — **konceptuāla arhitektūra, nevis ieviestas funkcijas**. Integral / AQAL, Spiral Dynamics un Integral City ir pētniecības ietekmes; tās nekad netiek izmantotas cilvēku, partiju vai apkaimju vērtēšanai.
+
+</details>
 
 <table>
 <tr>
@@ -200,6 +446,30 @@ Ieviests versijā v0.1.0: epistēmiskais modelis (nav beznosacījuma „fakta”
 
 ## Nākotne
 
+![HollyEarth — FUTURE](../media/infographics/future.svg)
+
+*Oriģināla konceptuāla infografika — vizuāla metafora, nevis produkta ekrānuzņēmums.*
+
+### Ja izpratne par vietu kļūtu par līdzdalību?
+
+Šodien var iepazīt publiskos ierakstus un jaunu pieredžu prototipus. Nākotnē vēlamies vairāk: cilvēkiem būtu iespēja ierosināt uzlabojumus, sadarboties vietējos projektos un redzēt īstus rezultātus.
+
+Tam vajadzīga gan tehnoloģija, gan **ilgtspējīgs ekonomiskais modelis**. Mēs paredzam apvienot īpašumā saglabātu intelektuālo kodolu ar izvēlētiem atvērtā pirmkoda rīkiem un neatkarīgiem kopienas projektiem, lai atvērtība varētu pastāvēt līdzās apmaksātam izstrādes darbam.
+
+Līdzdalības mehānismi, maki un ekonomiskie rīki ir **nākotnes ieceres**, nevis pašlaik pieejami pakalpojumi.
+
+
+<a href="../media/storycards/en/future.svg"><img src="../media/storycards/en/future.svg" alt="HollyEarth future — illustrated story" width="100%"></a>
+
+*Vizuāls stāsts — cilvēka jautājums, trīs soļi un ieguvums. Koncepts, nevis ekrānuzņēmums; uzraksti pagaidām angļu valodā.*
+
+<details>
+<summary><b>🗺️ Ceļvedis pēc statusa: darbojas / izstrādē / pētījumi / nākotne</b></summary>
+
+**Atvērta sadarbība. Ilgtspējīgs intelektuālais kodols.** Iecerētais modelis apvieno īpašumā saglabātu komerciālu kodolu ar izvēlētiem atvērtā pirmkoda kopienas rīkiem un atsevišķiem projektiem. Šajā repozitorijā pagaidām ir **tikai dokumentācija**, nevis kodola pirmkods.
+
+</details>
+
 | Ir šodien | Izstrādē | Pētījumi | Nākotne |
 |---|---|---|---|
 | Riga Twin · lietas, pierādījumi, izmeklēšanas gaita, Story · HollySport dati un pases · Social Intelligence · politikas dati un darba telpa · uzraudzība (manuāla) · RU / LV / EN · pāreja uz Holly Eye (trešās puses integrācija) | Kopēja identitāte starp jomām · sociālā joma galvenajā grafā · naudas semantika (plānots → līgumā noteikts → piešķirts → izmaksāts) · uzraudzība pēc grafika · pārbaude, ko veic cilvēks · Story nodaļas, piesaistītas apgalvojumiem · izmēģinājuma mitināšana · Event OS, Creator un partnerības (prototipi) | HEIO · HEIM · Integral / AQAL · Spiral Dynamics (tikai konteksts) · Integral City | Pārvaldīta rīcība un pārsūdzības · HollyWorlds · MetaSport ekonomika · publiska mitināšana · citas pilsētas |
@@ -209,6 +479,28 @@ HollySport spēles slānis paliek `DEMO`, kamēr tas nav balstīts uz reālu meh
 ---
 
 ## Pašreizējās iespējas
+
+![HollyEarth — CAPABILITIES](../media/infographics/capabilities.svg)
+
+*Oriģināla konceptuāla infografika — vizuāla metafora, nevis produkta ekrānuzņēmums.*
+
+### Skaistai vīzijai vajadzīgi pārbaudāmi rezultāti
+
+Sarežģītam projektam ir viegli runāt tikai par nākotni. Mēs izvēlamies skaidri nošķirt, **kas jau darbojas**, kas vēl ir prototips un kas ir tikai pētnieciska iecere.
+
+Tālāk redzamā tabula palīdz topošajiem partneriem un pētniekiem saprast, **ko var demonstrēt jau tagad un ko vēl būtu iespējams veidot kopā**.
+
+
+<a href="../media/storycards/en/capabilities.svg"><img src="../media/storycards/en/capabilities.svg" alt="HollyEarth capabilities — illustrated story" width="100%"></a>
+
+*Vizuāls stāsts — cilvēka jautājums, trīs soļi un ieguvums. Koncepts, nevis ekrānuzņēmums; uzraksti pagaidām angļu valodā.*
+
+<details>
+<summary><b>🔎 Kā lasīt iespēju matricu</b></summary>
+
+**Redzams gan solījums, gan pierādījums.** Detalizētajā matricā skaidri nošķirtas darbojošās iespējas, beta versijas, demonstrācijas, pētījumi un nākotnes ieceres. Koncepts netiek uzdots par gatavu funkciju.
+
+</details>
 
 | Joma | Gatavs demonstrēšanai | Darbojas | Beta / prototips | Demo / pētījumi / nākotne |
 |---|---|---|---|---|
@@ -238,6 +530,9 @@ Visi publicētie attēli ar parakstiem, statusiem un atsaucēm uz avotiem: [medi
 Repozitorijā ir tikai dokumentācija un mediji. Tas **nav atvērtā koda projekts**, un pirmkoda šeit nav — sk. [LICENSE.md](../LICENSE.md) un [NOTICE.md](../NOTICE.md). Trešo pušu kartes, dati un komponenti paliek to īpašnieku noteikumos.
 
 ## Kontakti un jaunumi
+
+**Mūsu princips:** rādām paveikto, godīgi atzīmējam eksperimentus un aicinām partnerus veidot nākamo posmu kopā.
+
 
 - **Sekot projektam** — sekojiet šim repozitorijam un [HollyEarth organizācijai](https://github.com/HollyEarth), lai saņemtu laidienus un dokumentācijas atjauninājumus.
 - **Video** — dibinātāju video (kāpēc veidojam HollyEarth, ko tas spēj šodien, kurp tas virzās tālāk) tiek gatavoti.
